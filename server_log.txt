@@ -2861,3 +2861,2999 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [17:42:45] [connection] incoming connection: 10.0.0.34:57704 id: 0
 [17:42:45] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
 [17:43:58] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:18:30] 
+[18:18:30] Server Plugins
+[18:18:30] --------------
+[18:18:30]  Loading plugin: streamer.dll
+[18:18:30] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:18:30]   Loaded.
+[18:18:30]  Loaded 1 plugins.
+
+[18:18:30] 
+[18:18:30] Filterscripts
+[18:18:30] ---------------
+[18:18:30]   Loading filterscript 'gl_actions.amx'...
+[18:18:30]   Loading filterscript 'gl_realtime.amx'...
+[18:18:30]   Loading filterscript 'gl_property.amx'...
+[18:18:30] 
+-----------------------------------
+[18:18:30] Grand Larceny Property Filterscript		
+[18:18:30] -----------------------------------
+
+[18:18:30]   Loading filterscript 'gl_mapicon.amx'...
+[18:18:30]   Loading filterscript 'ls_elevator.amx'...
+[18:18:30]   Loading filterscript 'attachments.amx'...
+[18:18:30]   Loading filterscript 'skinchanger.amx'...
+[18:18:30] 
+--Admin Player Skin Changer Loaded
+
+[18:18:31]   Loading filterscript 'vspawner.amx'...
+[18:18:31] 
+--Admin Vehicle Spawner Loaded
+
+[18:18:31]   Loading filterscript 'ls_mall.amx'...
+[18:18:31]   Loading filterscript 'ls_beachside.amx'...
+[18:18:31] 
+
+[18:18:31]   |---------------------------------------------------
+[18:18:31]   |--- LS BeachSide Filterscript
+[18:18:31]   |--  Script v1.03
+[18:18:31]   |--  19th April 2015
+[18:18:31]   |---------------------------------------------------
+[18:18:31]   |--  LS BeachSide Building Elevator created
+[18:18:31]   |---------------------------------------------------
+[18:18:31]   Loaded 10 filterscripts.
+
+[18:18:31] Reading File: blank
+[18:18:31] Reading File: properties/houses.txt
+[18:18:31] Reading File: properties/businesses.txt
+[18:18:31] Reading File: properties/banks.txt
+[18:18:31] Reading File: properties/police.txt
+[18:18:31] 
+----------------------------------
+[18:18:31]  Blank Gamemode by your name here
+[18:18:31] ----------------------------------
+
+[18:18:31] Number of vehicle models: 1
+[18:18:57] [connection] 10.0.0.34:50402 requests connection cookie.
+[18:18:58] [connection] incoming connection: 10.0.0.34:50402 id: 0
+[18:18:59] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[18:22:37] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:25:14] 
+[18:25:14] Server Plugins
+[18:25:14] --------------
+[18:25:14]  Loaded 0 plugins.
+
+[18:25:14] 
+[18:25:14] Filterscripts
+[18:25:14] ---------------
+[18:25:14]   Loading filterscript 'gl_actions.amx'...
+[18:25:14]   Loading filterscript 'gl_realtime.amx'...
+[18:25:14]   Loading filterscript 'gl_property.amx'...
+[18:25:14] 
+-----------------------------------
+[18:25:14] Grand Larceny Property Filterscript		
+[18:25:14] -----------------------------------
+
+[18:25:14]   Loading filterscript 'gl_mapicon.amx'...
+[18:25:14]   Loading filterscript 'ls_elevator.amx'...
+[18:25:14]   Loading filterscript 'attachments.amx'...
+[18:25:14]   Loading filterscript 'skinchanger.amx'...
+[18:25:14] 
+--Admin Player Skin Changer Loaded
+
+[18:25:14]   Loading filterscript 'vspawner.amx'...
+[18:25:14] 
+--Admin Vehicle Spawner Loaded
+
+[18:25:14]   Loading filterscript 'ls_mall.amx'...
+[18:25:14]   Loading filterscript 'ls_beachside.amx'...
+[18:25:14] 
+
+[18:25:14]   |---------------------------------------------------
+[18:25:14]   |--- LS BeachSide Filterscript
+[18:25:14]   |--  Script v1.03
+[18:25:14]   |--  19th April 2015
+[18:25:14]   |---------------------------------------------------
+[18:25:14]   |--  LS BeachSide Building Elevator created
+[18:25:14]   |---------------------------------------------------
+[18:25:14]   Loaded 10 filterscripts.
+
+[18:25:14] Reading File: blank
+[18:25:14] Reading File: properties/houses.txt
+[18:25:14] Reading File: properties/businesses.txt
+[18:25:14] Reading File: properties/banks.txt
+[18:25:14] Reading File: properties/police.txt
+[18:25:14] 
+----------------------------------
+[18:25:14]  Blank Gamemode by your name here
+[18:25:14] ----------------------------------
+
+[18:25:14] Number of vehicle models: 1
+[18:25:33] [connection] 10.0.0.34:53097 requests connection cookie.
+[18:25:34] [connection] incoming connection: 10.0.0.34:53097 id: 0
+[18:25:34] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[18:25:51] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:27:10] 
+[18:27:10] Server Plugins
+[18:27:10] --------------
+[18:27:10]  Loaded 0 plugins.
+
+[18:27:10] 
+[18:27:10] Filterscripts
+[18:27:10] ---------------
+[18:27:10]   Loading filterscript 'gl_actions.amx'...
+[18:27:10]   Loading filterscript 'gl_realtime.amx'...
+[18:27:10]   Loading filterscript 'gl_property.amx'...
+[18:27:10] 
+-----------------------------------
+[18:27:10] Grand Larceny Property Filterscript		
+[18:27:10] -----------------------------------
+
+[18:27:10]   Loading filterscript 'gl_mapicon.amx'...
+[18:27:10]   Loading filterscript 'ls_elevator.amx'...
+[18:27:10]   Loading filterscript 'attachments.amx'...
+[18:27:10]   Loading filterscript 'skinchanger.amx'...
+[18:27:10] 
+--Admin Player Skin Changer Loaded
+
+[18:27:10]   Loading filterscript 'vspawner.amx'...
+[18:27:10] 
+--Admin Vehicle Spawner Loaded
+
+[18:27:10]   Loading filterscript 'ls_mall.amx'...
+[18:27:10]   Loading filterscript 'ls_beachside.amx'...
+[18:27:10] 
+
+[18:27:10]   |---------------------------------------------------
+[18:27:10]   |--- LS BeachSide Filterscript
+[18:27:10]   |--  Script v1.03
+[18:27:10]   |--  19th April 2015
+[18:27:10]   |---------------------------------------------------
+[18:27:10]   |--  LS BeachSide Building Elevator created
+[18:27:10]   |---------------------------------------------------
+[18:27:10]   Loaded 10 filterscripts.
+
+[18:27:10] Reading File: blank
+[18:27:10] Reading File: properties/houses.txt
+[18:27:10] Reading File: properties/businesses.txt
+[18:27:10] Reading File: properties/banks.txt
+[18:27:10] Reading File: properties/police.txt
+[18:27:10] 
+----------------------------------
+[18:27:10]  Blank Gamemode by your name here
+[18:27:10] ----------------------------------
+
+[18:27:10] Number of vehicle models: 1
+[18:27:35] [connection] 10.0.0.34:50556 requests connection cookie.
+[18:27:37] [connection] incoming connection: 10.0.0.34:50556 id: 0
+[18:27:37] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[18:31:20] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:54:15] 
+[13:54:15] Server Plugins
+[13:54:15] --------------
+[13:54:15]  Loaded 0 plugins.
+
+[13:54:15] 
+[13:54:15] Filterscripts
+[13:54:15] ---------------
+[13:54:15]   Loading filterscript 'gl_actions.amx'...
+[13:54:15]   Loading filterscript 'gl_realtime.amx'...
+[13:54:15]   Loading filterscript 'gl_property.amx'...
+[13:54:15] 
+-----------------------------------
+[13:54:15] Grand Larceny Property Filterscript		
+[13:54:15] -----------------------------------
+
+[13:54:15]   Loading filterscript 'gl_mapicon.amx'...
+[13:54:15]   Loading filterscript 'ls_elevator.amx'...
+[13:54:15]   Loading filterscript 'attachments.amx'...
+[13:54:15]   Loading filterscript 'skinchanger.amx'...
+[13:54:15] 
+--Admin Player Skin Changer Loaded
+
+[13:54:15]   Loading filterscript 'vspawner.amx'...
+[13:54:15] 
+--Admin Vehicle Spawner Loaded
+
+[13:54:15]   Loading filterscript 'ls_mall.amx'...
+[13:54:15]   Loading filterscript 'ls_beachside.amx'...
+[13:54:15] 
+
+[13:54:15]   |---------------------------------------------------
+[13:54:15]   |--- LS BeachSide Filterscript
+[13:54:15]   |--  Script v1.03
+[13:54:15]   |--  19th April 2015
+[13:54:15]   |---------------------------------------------------
+[13:54:15]   |--  LS BeachSide Building Elevator created
+[13:54:15]   |---------------------------------------------------
+[13:54:15]   Loaded 10 filterscripts.
+
+[13:54:15] Reading File: blank
+[13:54:15] Reading File: properties/houses.txt
+[13:54:15] Reading File: properties/businesses.txt
+[13:54:15] Reading File: properties/banks.txt
+[13:54:15] Reading File: properties/police.txt
+[13:54:15] 
+----------------------------------
+[13:54:15]  Blank Gamemode by your name here
+[13:54:15] ----------------------------------
+
+[13:54:15] Number of vehicle models: 1
+[13:54:40] [connection] 10.0.0.34:64177 requests connection cookie.
+[13:54:41] [connection] incoming connection: 10.0.0.34:64177 id: 0
+[13:54:41] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[13:56:06] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:15:05] 
+[14:15:05] Server Plugins
+[14:15:05] --------------
+[14:15:05]  Loaded 0 plugins.
+
+[14:15:05] 
+[14:15:05] Filterscripts
+[14:15:05] ---------------
+[14:15:05]   Loading filterscript 'gl_actions.amx'...
+[14:15:05]   Loading filterscript 'gl_realtime.amx'...
+[14:15:05]   Loading filterscript 'gl_property.amx'...
+[14:15:05] 
+-----------------------------------
+[14:15:05] Grand Larceny Property Filterscript		
+[14:15:05] -----------------------------------
+
+[14:15:05]   Loading filterscript 'gl_mapicon.amx'...
+[14:15:05]   Loading filterscript 'ls_elevator.amx'...
+[14:15:05]   Loading filterscript 'attachments.amx'...
+[14:15:05]   Loading filterscript 'skinchanger.amx'...
+[14:15:05] 
+--Admin Player Skin Changer Loaded
+
+[14:15:05]   Loading filterscript 'vspawner.amx'...
+[14:15:05] 
+--Admin Vehicle Spawner Loaded
+
+[14:15:05]   Loading filterscript 'ls_mall.amx'...
+[14:15:05]   Loading filterscript 'ls_beachside.amx'...
+[14:15:05] 
+
+[14:15:05]   |---------------------------------------------------
+[14:15:05]   |--- LS BeachSide Filterscript
+[14:15:05]   |--  Script v1.03
+[14:15:05]   |--  19th April 2015
+[14:15:05]   |---------------------------------------------------
+[14:15:05]   |--  LS BeachSide Building Elevator created
+[14:15:05]   |---------------------------------------------------
+[14:15:05]   Loaded 10 filterscripts.
+
+[14:15:05] Reading File: blank
+[14:15:05] Reading File: properties/houses.txt
+[14:15:05] Reading File: properties/businesses.txt
+[14:15:05] Reading File: properties/banks.txt
+[14:15:05] Reading File: properties/police.txt
+[14:15:05] 
+----------------------------------
+[14:15:05]  Blank Gamemode by your name here
+[14:15:05] ----------------------------------
+
+[14:15:05] Number of vehicle models: 1
+[14:15:29] [connection] 10.0.0.34:54728 requests connection cookie.
+[14:15:30] [connection] incoming connection: 10.0.0.34:54728 id: 0
+[14:15:30] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:16:55] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:21:45] 
+[14:21:45] Server Plugins
+[14:21:45] --------------
+[14:21:45]  Loaded 0 plugins.
+
+[14:21:45] 
+[14:21:45] Filterscripts
+[14:21:45] ---------------
+[14:21:45]   Loading filterscript 'gl_actions.amx'...
+[14:21:45]   Loading filterscript 'gl_realtime.amx'...
+[14:21:45]   Loading filterscript 'gl_property.amx'...
+[14:21:45] 
+-----------------------------------
+[14:21:45] Grand Larceny Property Filterscript		
+[14:21:45] -----------------------------------
+
+[14:21:45]   Loading filterscript 'gl_mapicon.amx'...
+[14:21:45]   Loading filterscript 'ls_elevator.amx'...
+[14:21:45]   Loading filterscript 'attachments.amx'...
+[14:21:45]   Loading filterscript 'skinchanger.amx'...
+[14:21:45] 
+--Admin Player Skin Changer Loaded
+
+[14:21:45]   Loading filterscript 'vspawner.amx'...
+[14:21:45] 
+--Admin Vehicle Spawner Loaded
+
+[14:21:45]   Loading filterscript 'ls_mall.amx'...
+[14:21:45]   Loading filterscript 'ls_beachside.amx'...
+[14:21:45] 
+
+[14:21:45]   |---------------------------------------------------
+[14:21:45]   |--- LS BeachSide Filterscript
+[14:21:45]   |--  Script v1.03
+[14:21:45]   |--  19th April 2015
+[14:21:45]   |---------------------------------------------------
+[14:21:45]   |--  LS BeachSide Building Elevator created
+[14:21:45]   |---------------------------------------------------
+[14:21:45]   Loaded 10 filterscripts.
+
+[14:21:45] Reading File: blank
+[14:21:45] Reading File: properties/houses.txt
+[14:21:45] Reading File: properties/businesses.txt
+[14:21:45] Reading File: properties/banks.txt
+[14:21:45] Reading File: properties/police.txt
+[14:21:45] 
+----------------------------------
+[14:21:45]  Blank Gamemode by your name here
+[14:21:45] ----------------------------------
+
+[14:21:45] Number of vehicle models: 1
+[14:22:03] [connection] 10.0.0.34:63930 requests connection cookie.
+[14:22:04] [connection] incoming connection: 10.0.0.34:63930 id: 0
+[14:22:04] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:23:22] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:25:43] 
+[14:25:43] Server Plugins
+[14:25:43] --------------
+[14:25:43]  Loaded 0 plugins.
+
+[14:25:43] 
+[14:25:43] Filterscripts
+[14:25:43] ---------------
+[14:25:43]   Loading filterscript 'gl_actions.amx'...
+[14:25:43]   Loading filterscript 'gl_realtime.amx'...
+[14:25:43]   Loading filterscript 'gl_property.amx'...
+[14:25:43] 
+-----------------------------------
+[14:25:43] Grand Larceny Property Filterscript		
+[14:25:43] -----------------------------------
+
+[14:25:43]   Loading filterscript 'gl_mapicon.amx'...
+[14:25:43]   Loading filterscript 'ls_elevator.amx'...
+[14:25:43]   Loading filterscript 'attachments.amx'...
+[14:25:43]   Loading filterscript 'skinchanger.amx'...
+[14:25:43] 
+--Admin Player Skin Changer Loaded
+
+[14:25:43]   Loading filterscript 'vspawner.amx'...
+[14:25:43] 
+--Admin Vehicle Spawner Loaded
+
+[14:25:43]   Loading filterscript 'ls_mall.amx'...
+[14:25:43]   Loading filterscript 'ls_beachside.amx'...
+[14:25:43] 
+
+[14:25:43]   |---------------------------------------------------
+[14:25:43]   |--- LS BeachSide Filterscript
+[14:25:43]   |--  Script v1.03
+[14:25:43]   |--  19th April 2015
+[14:25:43]   |---------------------------------------------------
+[14:25:43]   |--  LS BeachSide Building Elevator created
+[14:25:43]   |---------------------------------------------------
+[14:25:43]   Loaded 10 filterscripts.
+
+[14:25:43] Reading File: blank
+[14:25:43] Reading File: properties/houses.txt
+[14:25:43] Reading File: properties/businesses.txt
+[14:25:43] Reading File: properties/banks.txt
+[14:25:43] Reading File: properties/police.txt
+[14:25:43] 
+----------------------------------
+[14:25:43]  Blank Gamemode by your name here
+[14:25:43] ----------------------------------
+
+[14:25:43] Number of vehicle models: 1
+[14:26:02] [connection] 10.0.0.34:54012 requests connection cookie.
+[14:26:03] [connection] incoming connection: 10.0.0.34:54012 id: 0
+[14:26:03] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:27:26] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:28:39] 
+[14:28:39] Server Plugins
+[14:28:39] --------------
+[14:28:39]  Loaded 0 plugins.
+
+[14:28:39] 
+[14:28:39] Filterscripts
+[14:28:39] ---------------
+[14:28:39]   Loading filterscript 'gl_actions.amx'...
+[14:28:39]   Loading filterscript 'gl_realtime.amx'...
+[14:28:39]   Loading filterscript 'gl_property.amx'...
+[14:28:39] 
+-----------------------------------
+[14:28:39] Grand Larceny Property Filterscript		
+[14:28:39] -----------------------------------
+
+[14:28:39]   Loading filterscript 'gl_mapicon.amx'...
+[14:28:39]   Loading filterscript 'ls_elevator.amx'...
+[14:28:39]   Loading filterscript 'attachments.amx'...
+[14:28:39]   Loading filterscript 'skinchanger.amx'...
+[14:28:39] 
+--Admin Player Skin Changer Loaded
+
+[14:28:39]   Loading filterscript 'vspawner.amx'...
+[14:28:39] 
+--Admin Vehicle Spawner Loaded
+
+[14:28:39]   Loading filterscript 'ls_mall.amx'...
+[14:28:39]   Loading filterscript 'ls_beachside.amx'...
+[14:28:39] 
+
+[14:28:39]   |---------------------------------------------------
+[14:28:39]   |--- LS BeachSide Filterscript
+[14:28:39]   |--  Script v1.03
+[14:28:39]   |--  19th April 2015
+[14:28:39]   |---------------------------------------------------
+[14:28:39]   |--  LS BeachSide Building Elevator created
+[14:28:39]   |---------------------------------------------------
+[14:28:39]   Loaded 10 filterscripts.
+
+[14:28:39] Reading File: blank
+[14:28:39] Reading File: properties/houses.txt
+[14:28:39] Reading File: properties/businesses.txt
+[14:28:39] Reading File: properties/banks.txt
+[14:28:39] Reading File: properties/police.txt
+[14:28:39] 
+----------------------------------
+[14:28:39]  Blank Gamemode by your name here
+[14:28:39] ----------------------------------
+
+[14:28:39] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:30:01] 
+[14:30:01] Server Plugins
+[14:30:01] --------------
+[14:30:01]  Loaded 0 plugins.
+
+[14:30:01] 
+[14:30:01] Filterscripts
+[14:30:01] ---------------
+[14:30:01]   Loading filterscript 'gl_actions.amx'...
+[14:30:01]   Loading filterscript 'gl_realtime.amx'...
+[14:30:01]   Loading filterscript 'gl_property.amx'...
+[14:30:01] 
+-----------------------------------
+[14:30:01] Grand Larceny Property Filterscript		
+[14:30:01] -----------------------------------
+
+[14:30:01]   Loading filterscript 'gl_mapicon.amx'...
+[14:30:01]   Loading filterscript 'ls_elevator.amx'...
+[14:30:01]   Loading filterscript 'attachments.amx'...
+[14:30:01]   Loading filterscript 'skinchanger.amx'...
+[14:30:01] 
+--Admin Player Skin Changer Loaded
+
+[14:30:01]   Loading filterscript 'vspawner.amx'...
+[14:30:01] 
+--Admin Vehicle Spawner Loaded
+
+[14:30:01]   Loading filterscript 'ls_mall.amx'...
+[14:30:01]   Loading filterscript 'ls_beachside.amx'...
+[14:30:01] 
+
+[14:30:01]   |---------------------------------------------------
+[14:30:01]   |--- LS BeachSide Filterscript
+[14:30:01]   |--  Script v1.03
+[14:30:01]   |--  19th April 2015
+[14:30:01]   |---------------------------------------------------
+[14:30:01]   |--  LS BeachSide Building Elevator created
+[14:30:01]   |---------------------------------------------------
+[14:30:01]   Loaded 10 filterscripts.
+
+[14:30:01] Reading File: blank
+[14:30:01] Reading File: properties/houses.txt
+[14:30:01] Reading File: properties/businesses.txt
+[14:30:01] Reading File: properties/banks.txt
+[14:30:01] Reading File: properties/police.txt
+[14:30:01] 
+----------------------------------
+[14:30:01]  Blank Gamemode by your name here
+[14:30:01] ----------------------------------
+
+[14:30:01] Number of vehicle models: 1
+[14:31:40] [connection] 10.0.0.34:55747 requests connection cookie.
+[14:31:41] [connection] incoming connection: 10.0.0.34:55747 id: 0
+[14:31:41] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:32:09] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:38:13] 
+[14:38:13] Server Plugins
+[14:38:13] --------------
+[14:38:13]  Loaded 0 plugins.
+
+[14:38:13] 
+[14:38:13] Filterscripts
+[14:38:13] ---------------
+[14:38:13]   Loading filterscript 'gl_actions.amx'...
+[14:38:13]   Loading filterscript 'gl_realtime.amx'...
+[14:38:13]   Loading filterscript 'gl_property.amx'...
+[14:38:13] 
+-----------------------------------
+[14:38:13] Grand Larceny Property Filterscript		
+[14:38:13] -----------------------------------
+
+[14:38:13]   Loading filterscript 'gl_mapicon.amx'...
+[14:38:13]   Loading filterscript 'ls_elevator.amx'...
+[14:38:13]   Loading filterscript 'attachments.amx'...
+[14:38:13]   Loading filterscript 'skinchanger.amx'...
+[14:38:13] 
+--Admin Player Skin Changer Loaded
+
+[14:38:13]   Loading filterscript 'vspawner.amx'...
+[14:38:13] 
+--Admin Vehicle Spawner Loaded
+
+[14:38:13]   Loading filterscript 'ls_mall.amx'...
+[14:38:13]   Loading filterscript 'ls_beachside.amx'...
+[14:38:13] 
+
+[14:38:13]   |---------------------------------------------------
+[14:38:13]   |--- LS BeachSide Filterscript
+[14:38:13]   |--  Script v1.03
+[14:38:13]   |--  19th April 2015
+[14:38:13]   |---------------------------------------------------
+[14:38:13]   |--  LS BeachSide Building Elevator created
+[14:38:13]   |---------------------------------------------------
+[14:38:13]   Loaded 10 filterscripts.
+
+[14:38:13] Reading File: blank
+[14:38:13] Reading File: properties/houses.txt
+[14:38:13] Reading File: properties/businesses.txt
+[14:38:13] Reading File: properties/banks.txt
+[14:38:13] Reading File: properties/police.txt
+[14:38:13] 
+----------------------------------
+[14:38:13]  Blank Gamemode by your name here
+[14:38:13] ----------------------------------
+
+[14:38:13] Number of vehicle models: 1
+[14:38:32] [connection] 10.0.0.34:62354 requests connection cookie.
+[14:38:33] [connection] incoming connection: 10.0.0.34:62354 id: 0
+[14:38:33] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:39:05] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:37] 
+[14:42:37] Server Plugins
+[14:42:37] --------------
+[14:42:37]  Loaded 0 plugins.
+
+[14:42:37] 
+[14:42:37] Filterscripts
+[14:42:37] ---------------
+[14:42:37]   Loading filterscript 'gl_actions.amx'...
+[14:42:37]   Loading filterscript 'gl_realtime.amx'...
+[14:42:37]   Loading filterscript 'gl_property.amx'...
+[14:42:37] 
+-----------------------------------
+[14:42:37] Grand Larceny Property Filterscript		
+[14:42:37] -----------------------------------
+
+[14:42:37]   Loading filterscript 'gl_mapicon.amx'...
+[14:42:37]   Loading filterscript 'ls_elevator.amx'...
+[14:42:37]   Loading filterscript 'attachments.amx'...
+[14:42:37]   Loading filterscript 'skinchanger.amx'...
+[14:42:37] 
+--Admin Player Skin Changer Loaded
+
+[14:42:37]   Loading filterscript 'vspawner.amx'...
+[14:42:37] 
+--Admin Vehicle Spawner Loaded
+
+[14:42:37]   Loading filterscript 'ls_mall.amx'...
+[14:42:37]   Loading filterscript 'ls_beachside.amx'...
+[14:42:37] 
+
+[14:42:37]   |---------------------------------------------------
+[14:42:37]   |--- LS BeachSide Filterscript
+[14:42:37]   |--  Script v1.03
+[14:42:37]   |--  19th April 2015
+[14:42:37]   |---------------------------------------------------
+[14:42:37]   |--  LS BeachSide Building Elevator created
+[14:42:37]   |---------------------------------------------------
+[14:42:37]   Loaded 10 filterscripts.
+
+[14:42:37] Reading File: blank
+[14:42:37] Reading File: properties/houses.txt
+[14:42:37] Reading File: properties/businesses.txt
+[14:42:37] Reading File: properties/banks.txt
+[14:42:37] Reading File: properties/police.txt
+[14:42:37] 
+----------------------------------
+[14:42:37]  Blank Gamemode by your name here
+[14:42:37] ----------------------------------
+
+[14:42:37] Number of vehicle models: 1
+[14:42:55] [connection] 10.0.0.34:49658 requests connection cookie.
+[14:42:56] [connection] incoming connection: 10.0.0.34:49658 id: 0
+[14:42:57] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:43:19] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:27] 
+[14:53:27] Server Plugins
+[14:53:27] --------------
+[14:53:27]  Loaded 0 plugins.
+
+[14:53:27] 
+[14:53:27] Filterscripts
+[14:53:27] ---------------
+[14:53:27]   Loading filterscript 'gl_actions.amx'...
+[14:53:27]   Loading filterscript 'gl_realtime.amx'...
+[14:53:27]   Loading filterscript 'gl_property.amx'...
+[14:53:27] 
+-----------------------------------
+[14:53:27] Grand Larceny Property Filterscript		
+[14:53:27] -----------------------------------
+
+[14:53:27]   Loading filterscript 'gl_mapicon.amx'...
+[14:53:27]   Loading filterscript 'ls_elevator.amx'...
+[14:53:27]   Loading filterscript 'attachments.amx'...
+[14:53:27]   Loading filterscript 'skinchanger.amx'...
+[14:53:27] 
+--Admin Player Skin Changer Loaded
+
+[14:53:27]   Loading filterscript 'vspawner.amx'...
+[14:53:27] 
+--Admin Vehicle Spawner Loaded
+
+[14:53:27]   Loading filterscript 'ls_mall.amx'...
+[14:53:27]   Loading filterscript 'ls_beachside.amx'...
+[14:53:27] 
+
+[14:53:27]   |---------------------------------------------------
+[14:53:27]   |--- LS BeachSide Filterscript
+[14:53:27]   |--  Script v1.03
+[14:53:27]   |--  19th April 2015
+[14:53:27]   |---------------------------------------------------
+[14:53:27]   |--  LS BeachSide Building Elevator created
+[14:53:27]   |---------------------------------------------------
+[14:53:27]   Loaded 10 filterscripts.
+
+[14:53:27] Reading File: blank
+[14:53:27] Reading File: properties/houses.txt
+[14:53:27] Reading File: properties/businesses.txt
+[14:53:27] Reading File: properties/banks.txt
+[14:53:27] Reading File: properties/police.txt
+[14:53:27] 
+----------------------------------
+[14:53:27]  Blank Gamemode by your name here
+[14:53:27] ----------------------------------
+
+[14:53:27] Number of vehicle models: 1
+[14:53:45] [connection] 10.0.0.34:53942 requests connection cookie.
+[14:53:46] [connection] incoming connection: 10.0.0.34:53942 id: 0
+[14:53:47] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[14:54:17] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:59:42] 
+[14:59:42] Server Plugins
+[14:59:42] --------------
+[14:59:42]  Loaded 0 plugins.
+
+[14:59:42] 
+[14:59:42] Filterscripts
+[14:59:42] ---------------
+[14:59:42]   Loading filterscript 'gl_actions.amx'...
+[14:59:42]   Loading filterscript 'gl_realtime.amx'...
+[14:59:42]   Loading filterscript 'gl_property.amx'...
+[14:59:42] 
+-----------------------------------
+[14:59:42] Grand Larceny Property Filterscript		
+[14:59:42] -----------------------------------
+
+[14:59:42]   Loading filterscript 'gl_mapicon.amx'...
+[14:59:42]   Loading filterscript 'ls_elevator.amx'...
+[14:59:42]   Loading filterscript 'attachments.amx'...
+[14:59:42]   Loading filterscript 'skinchanger.amx'...
+[14:59:42] 
+--Admin Player Skin Changer Loaded
+
+[14:59:42]   Loading filterscript 'vspawner.amx'...
+[14:59:42] 
+--Admin Vehicle Spawner Loaded
+
+[14:59:42]   Loading filterscript 'ls_mall.amx'...
+[14:59:42]   Loading filterscript 'ls_beachside.amx'...
+[14:59:42] 
+
+[14:59:42]   |---------------------------------------------------
+[14:59:42]   |--- LS BeachSide Filterscript
+[14:59:42]   |--  Script v1.03
+[14:59:42]   |--  19th April 2015
+[14:59:42]   |---------------------------------------------------
+[14:59:42]   |--  LS BeachSide Building Elevator created
+[14:59:42]   |---------------------------------------------------
+[14:59:42]   Loaded 10 filterscripts.
+
+[14:59:42] Reading File: blank
+[14:59:42] Reading File: properties/houses.txt
+[14:59:42] Reading File: properties/businesses.txt
+[14:59:42] Reading File: properties/banks.txt
+[14:59:42] Reading File: properties/police.txt
+[14:59:42] 
+----------------------------------
+[14:59:42]  Blank Gamemode by your name here
+[14:59:42] ----------------------------------
+
+[14:59:42] Number of vehicle models: 1
+[14:59:59] [connection] 10.0.0.34:58250 requests connection cookie.
+[15:00:00] [connection] incoming connection: 10.0.0.34:58250 id: 0
+[15:00:01] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:00:25] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:40] 
+[15:07:40] Server Plugins
+[15:07:40] --------------
+[15:07:40]  Loaded 0 plugins.
+
+[15:07:40] 
+[15:07:40] Filterscripts
+[15:07:40] ---------------
+[15:07:40]   Loading filterscript 'gl_actions.amx'...
+[15:07:40]   Loading filterscript 'gl_realtime.amx'...
+[15:07:40]   Loading filterscript 'gl_property.amx'...
+[15:07:40] 
+-----------------------------------
+[15:07:40] Grand Larceny Property Filterscript		
+[15:07:40] -----------------------------------
+
+[15:07:40]   Loading filterscript 'gl_mapicon.amx'...
+[15:07:40]   Loading filterscript 'ls_elevator.amx'...
+[15:07:40]   Loading filterscript 'attachments.amx'...
+[15:07:40]   Loading filterscript 'skinchanger.amx'...
+[15:07:40] 
+--Admin Player Skin Changer Loaded
+
+[15:07:40]   Loading filterscript 'vspawner.amx'...
+[15:07:40] 
+--Admin Vehicle Spawner Loaded
+
+[15:07:40]   Loading filterscript 'ls_mall.amx'...
+[15:07:40]   Loading filterscript 'ls_beachside.amx'...
+[15:07:40] 
+
+[15:07:40]   |---------------------------------------------------
+[15:07:40]   |--- LS BeachSide Filterscript
+[15:07:40]   |--  Script v1.03
+[15:07:40]   |--  19th April 2015
+[15:07:40]   |---------------------------------------------------
+[15:07:40]   |--  LS BeachSide Building Elevator created
+[15:07:40]   |---------------------------------------------------
+[15:07:40]   Loaded 10 filterscripts.
+
+[15:07:40] Reading File: blank
+[15:07:40] Reading File: properties/houses.txt
+[15:07:40] Reading File: properties/businesses.txt
+[15:07:40] Reading File: properties/banks.txt
+[15:07:40] Reading File: properties/police.txt
+[15:07:40] 
+----------------------------------
+[15:07:40]  Blank Gamemode by your name here
+[15:07:40] ----------------------------------
+
+[15:07:40] Number of vehicle models: 1
+[15:07:58] [connection] 10.0.0.34:65268 requests connection cookie.
+[15:07:59] [connection] incoming connection: 10.0.0.34:65268 id: 0
+[15:08:00] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:09:10] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:20] 
+[15:11:20] Server Plugins
+[15:11:20] --------------
+[15:11:20]  Loaded 0 plugins.
+
+[15:11:20] 
+[15:11:20] Filterscripts
+[15:11:20] ---------------
+[15:11:20]   Loading filterscript 'gl_actions.amx'...
+[15:11:20]   Loading filterscript 'gl_realtime.amx'...
+[15:11:20]   Loading filterscript 'gl_property.amx'...
+[15:11:20] 
+-----------------------------------
+[15:11:20] Grand Larceny Property Filterscript		
+[15:11:20] -----------------------------------
+
+[15:11:20]   Loading filterscript 'gl_mapicon.amx'...
+[15:11:20]   Loading filterscript 'ls_elevator.amx'...
+[15:11:20]   Loading filterscript 'attachments.amx'...
+[15:11:20]   Loading filterscript 'skinchanger.amx'...
+[15:11:20] 
+--Admin Player Skin Changer Loaded
+
+[15:11:20]   Loading filterscript 'vspawner.amx'...
+[15:11:20] 
+--Admin Vehicle Spawner Loaded
+
+[15:11:20]   Loading filterscript 'ls_mall.amx'...
+[15:11:20]   Loading filterscript 'ls_beachside.amx'...
+[15:11:20] 
+
+[15:11:20]   |---------------------------------------------------
+[15:11:20]   |--- LS BeachSide Filterscript
+[15:11:20]   |--  Script v1.03
+[15:11:20]   |--  19th April 2015
+[15:11:20]   |---------------------------------------------------
+[15:11:20]   |--  LS BeachSide Building Elevator created
+[15:11:20]   |---------------------------------------------------
+[15:11:20]   Loaded 10 filterscripts.
+
+[15:11:20] Reading File: blank
+[15:11:20] Reading File: properties/houses.txt
+[15:11:20] Reading File: properties/businesses.txt
+[15:11:20] Reading File: properties/banks.txt
+[15:11:20] Reading File: properties/police.txt
+[15:11:20] 
+----------------------------------
+[15:11:20]  Blank Gamemode by your name here
+[15:11:20] ----------------------------------
+
+[15:11:20] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:12:12] 
+[15:12:12] Server Plugins
+[15:12:12] --------------
+[15:12:12]  Loaded 0 plugins.
+
+[15:12:12] 
+[15:12:12] Filterscripts
+[15:12:12] ---------------
+[15:12:12]   Loading filterscript 'gl_actions.amx'...
+[15:12:12]   Loading filterscript 'gl_realtime.amx'...
+[15:12:12]   Loading filterscript 'gl_property.amx'...
+[15:12:12] 
+-----------------------------------
+[15:12:12] Grand Larceny Property Filterscript		
+[15:12:12] -----------------------------------
+
+[15:12:12]   Loading filterscript 'gl_mapicon.amx'...
+[15:12:12]   Loading filterscript 'ls_elevator.amx'...
+[15:12:12]   Loading filterscript 'attachments.amx'...
+[15:12:12]   Loading filterscript 'skinchanger.amx'...
+[15:12:12] 
+--Admin Player Skin Changer Loaded
+
+[15:12:12]   Loading filterscript 'vspawner.amx'...
+[15:12:12] 
+--Admin Vehicle Spawner Loaded
+
+[15:12:12]   Loading filterscript 'ls_mall.amx'...
+[15:12:12]   Loading filterscript 'ls_beachside.amx'...
+[15:12:12] 
+
+[15:12:12]   |---------------------------------------------------
+[15:12:12]   |--- LS BeachSide Filterscript
+[15:12:12]   |--  Script v1.03
+[15:12:12]   |--  19th April 2015
+[15:12:12]   |---------------------------------------------------
+[15:12:12]   |--  LS BeachSide Building Elevator created
+[15:12:12]   |---------------------------------------------------
+[15:12:12]   Loaded 10 filterscripts.
+
+[15:12:12] Reading File: blank
+[15:12:12] Reading File: properties/houses.txt
+[15:12:12] Reading File: properties/businesses.txt
+[15:12:12] Reading File: properties/banks.txt
+[15:12:12] Reading File: properties/police.txt
+[15:12:12] 
+----------------------------------
+[15:12:12]  Blank Gamemode by your name here
+[15:12:12] ----------------------------------
+
+[15:12:12] Number of vehicle models: 1
+[15:12:32] [connection] 10.0.0.34:54076 requests connection cookie.
+[15:12:33] [connection] incoming connection: 10.0.0.34:54076 id: 0
+[15:12:33] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:12:57] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:16:10] 
+[15:16:10] Server Plugins
+[15:16:10] --------------
+[15:16:10]  Loaded 0 plugins.
+
+[15:16:10] 
+[15:16:10] Filterscripts
+[15:16:10] ---------------
+[15:16:10]   Loading filterscript 'gl_actions.amx'...
+[15:16:10]   Loading filterscript 'gl_realtime.amx'...
+[15:16:10]   Loading filterscript 'gl_property.amx'...
+[15:16:10] 
+-----------------------------------
+[15:16:10] Grand Larceny Property Filterscript		
+[15:16:10] -----------------------------------
+
+[15:16:10]   Loading filterscript 'gl_mapicon.amx'...
+[15:16:10]   Loading filterscript 'ls_elevator.amx'...
+[15:16:10]   Loading filterscript 'attachments.amx'...
+[15:16:10]   Loading filterscript 'skinchanger.amx'...
+[15:16:10] 
+--Admin Player Skin Changer Loaded
+
+[15:16:10]   Loading filterscript 'vspawner.amx'...
+[15:16:10] 
+--Admin Vehicle Spawner Loaded
+
+[15:16:10]   Loading filterscript 'ls_mall.amx'...
+[15:16:10]   Loading filterscript 'ls_beachside.amx'...
+[15:16:10] 
+
+[15:16:10]   |---------------------------------------------------
+[15:16:10]   |--- LS BeachSide Filterscript
+[15:16:10]   |--  Script v1.03
+[15:16:10]   |--  19th April 2015
+[15:16:10]   |---------------------------------------------------
+[15:16:10]   |--  LS BeachSide Building Elevator created
+[15:16:10]   |---------------------------------------------------
+[15:16:10]   Loaded 10 filterscripts.
+
+[15:16:10] Reading File: blank
+[15:16:10] Reading File: properties/houses.txt
+[15:16:10] Reading File: properties/businesses.txt
+[15:16:10] Reading File: properties/banks.txt
+[15:16:10] Reading File: properties/police.txt
+[15:16:10] 
+----------------------------------
+[15:16:10]  Blank Gamemode by your name here
+[15:16:10] ----------------------------------
+
+[15:16:10] Number of vehicle models: 1
+[15:16:29] [connection] 10.0.0.34:61641 requests connection cookie.
+[15:16:30] [connection] incoming connection: 10.0.0.34:61641 id: 0
+[15:16:30] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:16:57] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:51] 
+[15:22:51] Server Plugins
+[15:22:51] --------------
+[15:22:51]  Loaded 0 plugins.
+
+[15:22:51] 
+[15:22:51] Filterscripts
+[15:22:51] ---------------
+[15:22:51]   Loading filterscript 'gl_actions.amx'...
+[15:22:51]   Loading filterscript 'gl_realtime.amx'...
+[15:22:51]   Loading filterscript 'gl_property.amx'...
+[15:22:51] 
+-----------------------------------
+[15:22:51] Grand Larceny Property Filterscript		
+[15:22:51] -----------------------------------
+
+[15:22:51]   Loading filterscript 'gl_mapicon.amx'...
+[15:22:51]   Loading filterscript 'ls_elevator.amx'...
+[15:22:51]   Loading filterscript 'attachments.amx'...
+[15:22:51]   Loading filterscript 'skinchanger.amx'...
+[15:22:51] 
+--Admin Player Skin Changer Loaded
+
+[15:22:51]   Loading filterscript 'vspawner.amx'...
+[15:22:51] 
+--Admin Vehicle Spawner Loaded
+
+[15:22:51]   Loading filterscript 'ls_mall.amx'...
+[15:22:51]   Loading filterscript 'ls_beachside.amx'...
+[15:22:51] 
+
+[15:22:51]   |---------------------------------------------------
+[15:22:51]   |--- LS BeachSide Filterscript
+[15:22:51]   |--  Script v1.03
+[15:22:51]   |--  19th April 2015
+[15:22:51]   |---------------------------------------------------
+[15:22:51]   |--  LS BeachSide Building Elevator created
+[15:22:51]   |---------------------------------------------------
+[15:22:51]   Loaded 10 filterscripts.
+
+[15:22:51] Reading File: blank
+[15:22:51] Reading File: properties/houses.txt
+[15:22:51] Reading File: properties/businesses.txt
+[15:22:51] Reading File: properties/banks.txt
+[15:22:51] Reading File: properties/police.txt
+[15:22:51] 
+----------------------------------
+[15:22:51]  Blank Gamemode by your name here
+[15:22:51] ----------------------------------
+
+[15:22:51] Number of vehicle models: 1
+[15:23:03] [connection] 25.3.75.224:62388 requests connection cookie.
+[15:23:04] [connection] incoming connection: 25.3.75.224:62388 id: 0
+[15:23:05] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[15:23:16] [connection] 10.0.0.34:53082 requests connection cookie.
+[15:23:17] [connection] incoming connection: 10.0.0.34:53082 id: 1
+[15:23:17] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[15:24:01] [part] Alessio_Mancini has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:42:02] 
+[15:42:02] Server Plugins
+[15:42:02] --------------
+[15:42:02]  Loaded 0 plugins.
+
+[15:42:02] 
+[15:42:02] Filterscripts
+[15:42:02] ---------------
+[15:42:02]   Loading filterscript 'gl_actions.amx'...
+[15:42:02]   Loading filterscript 'gl_realtime.amx'...
+[15:42:02]   Loading filterscript 'gl_property.amx'...
+[15:42:02] 
+-----------------------------------
+[15:42:02] Grand Larceny Property Filterscript		
+[15:42:02] -----------------------------------
+
+[15:42:02]   Loading filterscript 'gl_mapicon.amx'...
+[15:42:02]   Loading filterscript 'ls_elevator.amx'...
+[15:42:02]   Loading filterscript 'attachments.amx'...
+[15:42:02]   Loading filterscript 'skinchanger.amx'...
+[15:42:02] 
+--Admin Player Skin Changer Loaded
+
+[15:42:02]   Loading filterscript 'vspawner.amx'...
+[15:42:02] 
+--Admin Vehicle Spawner Loaded
+
+[15:42:02]   Loading filterscript 'ls_mall.amx'...
+[15:42:02]   Loading filterscript 'ls_beachside.amx'...
+[15:42:02] 
+
+[15:42:02]   |---------------------------------------------------
+[15:42:02]   |--- LS BeachSide Filterscript
+[15:42:02]   |--  Script v1.03
+[15:42:02]   |--  19th April 2015
+[15:42:02]   |---------------------------------------------------
+[15:42:02]   |--  LS BeachSide Building Elevator created
+[15:42:02]   |---------------------------------------------------
+[15:42:02]   Loaded 10 filterscripts.
+
+[15:42:02] Reading File: blank
+[15:42:02] Reading File: properties/houses.txt
+[15:42:02] Reading File: properties/businesses.txt
+[15:42:02] Reading File: properties/banks.txt
+[15:42:02] Reading File: properties/police.txt
+[15:42:02] 
+----------------------------------
+[15:42:02]  Blank Gamemode by your name here
+[15:42:02] ----------------------------------
+
+[15:42:02] Number of vehicle models: 1
+[15:42:23] [connection] 10.0.0.34:64149 requests connection cookie.
+[15:42:24] [connection] incoming connection: 10.0.0.34:64149 id: 0
+[15:42:24] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:43:59] [connection] 25.3.75.224:53627 requests connection cookie.
+[15:44:00] [connection] incoming connection: 25.3.75.224:53627 id: 1
+[15:44:01] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+[15:45:15] [part] Alessio_Mancini has left the server (0:1)
+[15:45:36] [part] Vladimir_Petrov2 has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:48:29] 
+[15:48:29] Server Plugins
+[15:48:29] --------------
+[15:48:29]  Loaded 0 plugins.
+
+[15:48:29] 
+[15:48:29] Filterscripts
+[15:48:29] ---------------
+[15:48:29]   Loading filterscript 'gl_actions.amx'...
+[15:48:29]   Loading filterscript 'gl_realtime.amx'...
+[15:48:29]   Loading filterscript 'gl_property.amx'...
+[15:48:29] 
+-----------------------------------
+[15:48:29] Grand Larceny Property Filterscript		
+[15:48:29] -----------------------------------
+
+[15:48:29]   Loading filterscript 'gl_mapicon.amx'...
+[15:48:29]   Loading filterscript 'ls_elevator.amx'...
+[15:48:29]   Loading filterscript 'attachments.amx'...
+[15:48:29]   Loading filterscript 'skinchanger.amx'...
+[15:48:29] 
+--Admin Player Skin Changer Loaded
+
+[15:48:29]   Loading filterscript 'vspawner.amx'...
+[15:48:29] 
+--Admin Vehicle Spawner Loaded
+
+[15:48:29]   Loading filterscript 'ls_mall.amx'...
+[15:48:29]   Loading filterscript 'ls_beachside.amx'...
+[15:48:29] 
+
+[15:48:29]   |---------------------------------------------------
+[15:48:29]   |--- LS BeachSide Filterscript
+[15:48:29]   |--  Script v1.03
+[15:48:29]   |--  19th April 2015
+[15:48:29]   |---------------------------------------------------
+[15:48:29]   |--  LS BeachSide Building Elevator created
+[15:48:29]   |---------------------------------------------------
+[15:48:29]   Loaded 10 filterscripts.
+
+[15:48:29] Reading File: blank
+[15:48:29] Reading File: properties/houses.txt
+[15:48:29] Reading File: properties/businesses.txt
+[15:48:29] Reading File: properties/banks.txt
+[15:48:29] Reading File: properties/police.txt
+[15:48:29] 
+----------------------------------
+[15:48:29]  Blank Gamemode by your name here
+[15:48:29] ----------------------------------
+
+[15:48:29] Number of vehicle models: 1
+[15:48:37] [connection] 25.3.75.224:60576 requests connection cookie.
+[15:48:38] [connection] incoming connection: 25.3.75.224:60576 id: 0
+[15:48:39] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[15:48:47] [connection] 10.0.0.34:58699 requests connection cookie.
+[15:48:48] [connection] incoming connection: 10.0.0.34:58699 id: 1
+[15:48:48] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[15:49:32] [part] Alessio_Mancini has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:08:04] 
+[16:08:04] Server Plugins
+[16:08:04] --------------
+[16:08:04]  Loaded 0 plugins.
+
+[16:08:04] 
+[16:08:04] Filterscripts
+[16:08:04] ---------------
+[16:08:04]   Loading filterscript 'gl_actions.amx'...
+[16:08:04]   Loading filterscript 'gl_realtime.amx'...
+[16:08:04]   Loading filterscript 'gl_property.amx'...
+[16:08:04] 
+-----------------------------------
+[16:08:04] Grand Larceny Property Filterscript		
+[16:08:04] -----------------------------------
+
+[16:08:04]   Loading filterscript 'gl_mapicon.amx'...
+[16:08:04]   Loading filterscript 'ls_elevator.amx'...
+[16:08:04]   Loading filterscript 'attachments.amx'...
+[16:08:04]   Loading filterscript 'skinchanger.amx'...
+[16:08:04] 
+--Admin Player Skin Changer Loaded
+
+[16:08:04]   Loading filterscript 'vspawner.amx'...
+[16:08:04] 
+--Admin Vehicle Spawner Loaded
+
+[16:08:04]   Loading filterscript 'ls_mall.amx'...
+[16:08:04]   Loading filterscript 'ls_beachside.amx'...
+[16:08:04] 
+
+[16:08:04]   |---------------------------------------------------
+[16:08:04]   |--- LS BeachSide Filterscript
+[16:08:04]   |--  Script v1.03
+[16:08:04]   |--  19th April 2015
+[16:08:04]   |---------------------------------------------------
+[16:08:04]   |--  LS BeachSide Building Elevator created
+[16:08:04]   |---------------------------------------------------
+[16:08:04]   Loaded 10 filterscripts.
+
+[16:08:04] Reading File: blank
+[16:08:04] Reading File: properties/houses.txt
+[16:08:04] Reading File: properties/businesses.txt
+[16:08:04] Reading File: properties/banks.txt
+[16:08:04] Reading File: properties/police.txt
+[16:08:04] 
+----------------------------------
+[16:08:04]  Blank Gamemode by your name here
+[16:08:04] ----------------------------------
+
+[16:08:04] Number of vehicle models: 1
+[16:08:27] [connection] 10.0.0.34:49281 requests connection cookie.
+[16:08:28] [connection] incoming connection: 10.0.0.34:49281 id: 0
+[16:08:29] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:10:11] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:08] 
+[16:18:08] Server Plugins
+[16:18:08] --------------
+[16:18:08]  Loaded 0 plugins.
+
+[16:18:08] 
+[16:18:08] Filterscripts
+[16:18:08] ---------------
+[16:18:08]   Loading filterscript 'gl_actions.amx'...
+[16:18:08]   Loading filterscript 'gl_realtime.amx'...
+[16:18:08]   Loading filterscript 'gl_property.amx'...
+[16:18:08] 
+-----------------------------------
+[16:18:08] Grand Larceny Property Filterscript		
+[16:18:08] -----------------------------------
+
+[16:18:08]   Loading filterscript 'gl_mapicon.amx'...
+[16:18:08]   Loading filterscript 'ls_elevator.amx'...
+[16:18:08]   Loading filterscript 'attachments.amx'...
+[16:18:08]   Loading filterscript 'skinchanger.amx'...
+[16:18:08] 
+--Admin Player Skin Changer Loaded
+
+[16:18:08]   Loading filterscript 'vspawner.amx'...
+[16:18:08] 
+--Admin Vehicle Spawner Loaded
+
+[16:18:08]   Loading filterscript 'ls_mall.amx'...
+[16:18:08]   Loading filterscript 'ls_beachside.amx'...
+[16:18:08] 
+
+[16:18:08]   |---------------------------------------------------
+[16:18:08]   |--- LS BeachSide Filterscript
+[16:18:08]   |--  Script v1.03
+[16:18:08]   |--  19th April 2015
+[16:18:08]   |---------------------------------------------------
+[16:18:08]   |--  LS BeachSide Building Elevator created
+[16:18:08]   |---------------------------------------------------
+[16:18:08]   Loaded 10 filterscripts.
+
+[16:18:08] Reading File: blank
+[16:18:08] Reading File: properties/houses.txt
+[16:18:08] Reading File: properties/businesses.txt
+[16:18:08] Reading File: properties/banks.txt
+[16:18:08] Reading File: properties/police.txt
+[16:18:08] 
+----------------------------------
+[16:18:08]  Blank Gamemode by your name here
+[16:18:08] ----------------------------------
+
+[16:18:08] Number of vehicle models: 1
+[16:18:27] [connection] 10.0.0.34:53448 requests connection cookie.
+[16:18:28] [connection] incoming connection: 10.0.0.34:53448 id: 0
+[16:18:28] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:19:01] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:20:50] 
+[16:20:50] Server Plugins
+[16:20:50] --------------
+[16:20:50]  Loaded 0 plugins.
+
+[16:20:50] 
+[16:20:50] Filterscripts
+[16:20:50] ---------------
+[16:20:50]   Loading filterscript 'gl_actions.amx'...
+[16:20:50]   Loading filterscript 'gl_realtime.amx'...
+[16:20:50]   Loading filterscript 'gl_property.amx'...
+[16:20:50] 
+-----------------------------------
+[16:20:50] Grand Larceny Property Filterscript		
+[16:20:50] -----------------------------------
+
+[16:20:50]   Loading filterscript 'gl_mapicon.amx'...
+[16:20:50]   Loading filterscript 'ls_elevator.amx'...
+[16:20:50]   Loading filterscript 'attachments.amx'...
+[16:20:50]   Loading filterscript 'skinchanger.amx'...
+[16:20:50] 
+--Admin Player Skin Changer Loaded
+
+[16:20:50]   Loading filterscript 'vspawner.amx'...
+[16:20:50] 
+--Admin Vehicle Spawner Loaded
+
+[16:20:50]   Loading filterscript 'ls_mall.amx'...
+[16:20:50]   Loading filterscript 'ls_beachside.amx'...
+[16:20:50] 
+
+[16:20:50]   |---------------------------------------------------
+[16:20:50]   |--- LS BeachSide Filterscript
+[16:20:50]   |--  Script v1.03
+[16:20:50]   |--  19th April 2015
+[16:20:50]   |---------------------------------------------------
+[16:20:50]   |--  LS BeachSide Building Elevator created
+[16:20:50]   |---------------------------------------------------
+[16:20:50]   Loaded 10 filterscripts.
+
+[16:20:50] Reading File: blank
+[16:20:50] Reading File: properties/houses.txt
+[16:20:50] Reading File: properties/businesses.txt
+[16:20:50] Reading File: properties/banks.txt
+[16:20:50] Reading File: properties/police.txt
+[16:20:50] 
+----------------------------------
+[16:20:50]  Blank Gamemode by your name here
+[16:20:50] ----------------------------------
+
+[16:20:50] Number of vehicle models: 1
+[16:21:08] [connection] 10.0.0.34:50734 requests connection cookie.
+[16:21:09] [connection] incoming connection: 10.0.0.34:50734 id: 0
+[16:21:09] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:21:35] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:22:18] 
+[16:22:18] Server Plugins
+[16:22:18] --------------
+[16:22:18]  Loaded 0 plugins.
+
+[16:22:18] 
+[16:22:18] Filterscripts
+[16:22:18] ---------------
+[16:22:18]   Loading filterscript 'gl_actions.amx'...
+[16:22:18]   Loading filterscript 'gl_realtime.amx'...
+[16:22:18]   Loading filterscript 'gl_property.amx'...
+[16:22:18] 
+-----------------------------------
+[16:22:18] Grand Larceny Property Filterscript		
+[16:22:18] -----------------------------------
+
+[16:22:18]   Loading filterscript 'gl_mapicon.amx'...
+[16:22:18]   Loading filterscript 'ls_elevator.amx'...
+[16:22:18]   Loading filterscript 'attachments.amx'...
+[16:22:18]   Loading filterscript 'skinchanger.amx'...
+[16:22:18] 
+--Admin Player Skin Changer Loaded
+
+[16:22:18]   Loading filterscript 'vspawner.amx'...
+[16:22:18] 
+--Admin Vehicle Spawner Loaded
+
+[16:22:18]   Loading filterscript 'ls_mall.amx'...
+[16:22:18]   Loading filterscript 'ls_beachside.amx'...
+[16:22:18] 
+
+[16:22:18]   |---------------------------------------------------
+[16:22:18]   |--- LS BeachSide Filterscript
+[16:22:18]   |--  Script v1.03
+[16:22:18]   |--  19th April 2015
+[16:22:18]   |---------------------------------------------------
+[16:22:18]   |--  LS BeachSide Building Elevator created
+[16:22:18]   |---------------------------------------------------
+[16:22:18]   Loaded 10 filterscripts.
+
+[16:22:18] Reading File: blank
+[16:22:18] Reading File: properties/houses.txt
+[16:22:18] Reading File: properties/businesses.txt
+[16:22:18] Reading File: properties/banks.txt
+[16:22:18] Reading File: properties/police.txt
+[16:22:18] 
+----------------------------------
+[16:22:18]  Blank Gamemode by your name here
+[16:22:18] ----------------------------------
+
+[16:22:18] Number of vehicle models: 1
+[16:22:36] [connection] 10.0.0.34:61490 requests connection cookie.
+[16:22:37] [connection] incoming connection: 10.0.0.34:61490 id: 0
+[16:22:37] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:23:00] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:45:02] 
+[16:45:02] Server Plugins
+[16:45:02] --------------
+[16:45:02]  Loaded 0 plugins.
+
+[16:45:02] 
+[16:45:02] Filterscripts
+[16:45:02] ---------------
+[16:45:02]   Loading filterscript 'gl_actions.amx'...
+[16:45:02]   Loading filterscript 'gl_realtime.amx'...
+[16:45:02]   Loading filterscript 'gl_property.amx'...
+[16:45:02] 
+-----------------------------------
+[16:45:02] Grand Larceny Property Filterscript		
+[16:45:02] -----------------------------------
+
+[16:45:02]   Loading filterscript 'gl_mapicon.amx'...
+[16:45:02]   Loading filterscript 'ls_elevator.amx'...
+[16:45:02]   Loading filterscript 'attachments.amx'...
+[16:45:02]   Loading filterscript 'skinchanger.amx'...
+[16:45:02] 
+--Admin Player Skin Changer Loaded
+
+[16:45:02]   Loading filterscript 'vspawner.amx'...
+[16:45:02] 
+--Admin Vehicle Spawner Loaded
+
+[16:45:02]   Loading filterscript 'ls_mall.amx'...
+[16:45:02]   Loading filterscript 'ls_beachside.amx'...
+[16:45:02] 
+
+[16:45:02]   |---------------------------------------------------
+[16:45:02]   |--- LS BeachSide Filterscript
+[16:45:02]   |--  Script v1.03
+[16:45:02]   |--  19th April 2015
+[16:45:02]   |---------------------------------------------------
+[16:45:02]   |--  LS BeachSide Building Elevator created
+[16:45:02]   |---------------------------------------------------
+[16:45:02]   Loaded 10 filterscripts.
+
+[16:45:02] Reading File: blank
+[16:45:02] Reading File: properties/houses.txt
+[16:45:02] Reading File: properties/businesses.txt
+[16:45:02] Reading File: properties/banks.txt
+[16:45:02] Reading File: properties/police.txt
+[16:45:02] 
+----------------------------------
+[16:45:02]  Blank Gamemode by your name here
+[16:45:02] ----------------------------------
+
+[16:45:02] Number of vehicle models: 1
+[16:45:23] [connection] 10.0.0.34:62645 requests connection cookie.
+[16:45:24] [connection] incoming connection: 10.0.0.34:62645 id: 0
+[16:45:25] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:46:04] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:48:28] 
+[16:48:28] Server Plugins
+[16:48:28] --------------
+[16:48:28]  Loaded 0 plugins.
+
+[16:48:28] 
+[16:48:28] Filterscripts
+[16:48:28] ---------------
+[16:48:28]   Loading filterscript 'gl_actions.amx'...
+[16:48:28]   Loading filterscript 'gl_realtime.amx'...
+[16:48:28]   Loading filterscript 'gl_property.amx'...
+[16:48:28] 
+-----------------------------------
+[16:48:28] Grand Larceny Property Filterscript		
+[16:48:28] -----------------------------------
+
+[16:48:28]   Loading filterscript 'gl_mapicon.amx'...
+[16:48:28]   Loading filterscript 'ls_elevator.amx'...
+[16:48:28]   Loading filterscript 'attachments.amx'...
+[16:48:28]   Loading filterscript 'skinchanger.amx'...
+[16:48:28] 
+--Admin Player Skin Changer Loaded
+
+[16:48:28]   Loading filterscript 'vspawner.amx'...
+[16:48:28] 
+--Admin Vehicle Spawner Loaded
+
+[16:48:28]   Loading filterscript 'ls_mall.amx'...
+[16:48:28]   Loading filterscript 'ls_beachside.amx'...
+[16:48:28] 
+
+[16:48:28]   |---------------------------------------------------
+[16:48:28]   |--- LS BeachSide Filterscript
+[16:48:28]   |--  Script v1.03
+[16:48:28]   |--  19th April 2015
+[16:48:28]   |---------------------------------------------------
+[16:48:28]   |--  LS BeachSide Building Elevator created
+[16:48:28]   |---------------------------------------------------
+[16:48:28]   Loaded 10 filterscripts.
+
+[16:48:28] Reading File: blank
+[16:48:28] Reading File: properties/houses.txt
+[16:48:28] Reading File: properties/businesses.txt
+[16:48:28] Reading File: properties/banks.txt
+[16:48:28] Reading File: properties/police.txt
+[16:48:28] 
+----------------------------------
+[16:48:28]  Blank Gamemode by your name here
+[16:48:28] ----------------------------------
+
+[16:48:28] Number of vehicle models: 1
+[16:48:47] [connection] 10.0.0.34:52091 requests connection cookie.
+[16:48:48] [connection] incoming connection: 10.0.0.34:52091 id: 0
+[16:48:48] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:49:29] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:53:17] 
+[16:53:17] Server Plugins
+[16:53:17] --------------
+[16:53:17]  Loaded 0 plugins.
+
+[16:53:17] 
+[16:53:17] Filterscripts
+[16:53:17] ---------------
+[16:53:17]   Loading filterscript 'gl_actions.amx'...
+[16:53:17]   Loading filterscript 'gl_realtime.amx'...
+[16:53:17]   Loading filterscript 'gl_property.amx'...
+[16:53:17] 
+-----------------------------------
+[16:53:17] Grand Larceny Property Filterscript		
+[16:53:17] -----------------------------------
+
+[16:53:17]   Loading filterscript 'gl_mapicon.amx'...
+[16:53:17]   Loading filterscript 'ls_elevator.amx'...
+[16:53:17]   Loading filterscript 'attachments.amx'...
+[16:53:17]   Loading filterscript 'skinchanger.amx'...
+[16:53:17] 
+--Admin Player Skin Changer Loaded
+
+[16:53:17]   Loading filterscript 'vspawner.amx'...
+[16:53:17] 
+--Admin Vehicle Spawner Loaded
+
+[16:53:17]   Loading filterscript 'ls_mall.amx'...
+[16:53:17]   Loading filterscript 'ls_beachside.amx'...
+[16:53:17] 
+
+[16:53:17]   |---------------------------------------------------
+[16:53:17]   |--- LS BeachSide Filterscript
+[16:53:17]   |--  Script v1.03
+[16:53:17]   |--  19th April 2015
+[16:53:17]   |---------------------------------------------------
+[16:53:17]   |--  LS BeachSide Building Elevator created
+[16:53:17]   |---------------------------------------------------
+[16:53:17]   Loaded 10 filterscripts.
+
+[16:53:17] Reading File: blank
+[16:53:17] Reading File: properties/houses.txt
+[16:53:17] Reading File: properties/businesses.txt
+[16:53:17] Reading File: properties/banks.txt
+[16:53:17] Reading File: properties/police.txt
+[16:53:17] 
+----------------------------------
+[16:53:17]  Blank Gamemode by your name here
+[16:53:17] ----------------------------------
+
+[16:53:17] Number of vehicle models: 1
+[16:53:35] [connection] 10.0.0.34:54864 requests connection cookie.
+[16:53:36] [connection] incoming connection: 10.0.0.34:54864 id: 0
+[16:53:36] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:53:56] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:06:48] 
+[17:06:48] Server Plugins
+[17:06:48] --------------
+[17:06:48]  Loaded 0 plugins.
+
+[17:06:48] 
+[17:06:48] Filterscripts
+[17:06:48] ---------------
+[17:06:48]   Loading filterscript 'gl_actions.amx'...
+[17:06:48]   Loading filterscript 'gl_realtime.amx'...
+[17:06:48]   Loading filterscript 'gl_property.amx'...
+[17:06:48] 
+-----------------------------------
+[17:06:48] Grand Larceny Property Filterscript		
+[17:06:48] -----------------------------------
+
+[17:06:48]   Loading filterscript 'gl_mapicon.amx'...
+[17:06:48]   Loading filterscript 'ls_elevator.amx'...
+[17:06:48]   Loading filterscript 'attachments.amx'...
+[17:06:48]   Loading filterscript 'skinchanger.amx'...
+[17:06:48] 
+--Admin Player Skin Changer Loaded
+
+[17:06:48]   Loading filterscript 'vspawner.amx'...
+[17:06:48] 
+--Admin Vehicle Spawner Loaded
+
+[17:06:48]   Loading filterscript 'ls_mall.amx'...
+[17:06:48]   Loading filterscript 'ls_beachside.amx'...
+[17:06:48] 
+
+[17:06:48]   |---------------------------------------------------
+[17:06:48]   |--- LS BeachSide Filterscript
+[17:06:48]   |--  Script v1.03
+[17:06:48]   |--  19th April 2015
+[17:06:48]   |---------------------------------------------------
+[17:06:48]   |--  LS BeachSide Building Elevator created
+[17:06:48]   |---------------------------------------------------
+[17:06:48]   Loaded 10 filterscripts.
+
+[17:06:48] Reading File: blank
+[17:06:48] Reading File: properties/houses.txt
+[17:06:48] Reading File: properties/businesses.txt
+[17:06:48] Reading File: properties/banks.txt
+[17:06:48] Reading File: properties/police.txt
+[17:06:48] 
+----------------------------------
+[17:06:48]  Blank Gamemode by your name here
+[17:06:48] ----------------------------------
+
+[17:06:48] Number of vehicle models: 1
+[17:07:07] [connection] 10.0.0.34:56811 requests connection cookie.
+[17:07:08] [connection] incoming connection: 10.0.0.34:56811 id: 0
+[17:07:08] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[17:07:23] [connection] 25.3.75.224:52017 requests connection cookie.
+[17:07:24] [connection] incoming connection: 25.3.75.224:52017 id: 1
+[17:07:25] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:04] 
+[17:08:04] Server Plugins
+[17:08:04] --------------
+[17:08:04]  Loaded 0 plugins.
+
+[17:08:04] 
+[17:08:04] Filterscripts
+[17:08:04] ---------------
+[17:08:04]   Loading filterscript 'gl_actions.amx'...
+[17:08:04]   Loading filterscript 'gl_realtime.amx'...
+[17:08:04]   Loading filterscript 'gl_property.amx'...
+[17:08:04] 
+-----------------------------------
+[17:08:04] Grand Larceny Property Filterscript		
+[17:08:04] -----------------------------------
+
+[17:08:04]   Loading filterscript 'gl_mapicon.amx'...
+[17:08:04]   Loading filterscript 'ls_elevator.amx'...
+[17:08:04]   Loading filterscript 'attachments.amx'...
+[17:08:04]   Loading filterscript 'skinchanger.amx'...
+[17:08:04] 
+--Admin Player Skin Changer Loaded
+
+[17:08:04]   Loading filterscript 'vspawner.amx'...
+[17:08:04] 
+--Admin Vehicle Spawner Loaded
+
+[17:08:04]   Loading filterscript 'ls_mall.amx'...
+[17:08:04]   Loading filterscript 'ls_beachside.amx'...
+[17:08:04] 
+
+[17:08:04]   |---------------------------------------------------
+[17:08:04]   |--- LS BeachSide Filterscript
+[17:08:04]   |--  Script v1.03
+[17:08:04]   |--  19th April 2015
+[17:08:04]   |---------------------------------------------------
+[17:08:04]   |--  LS BeachSide Building Elevator created
+[17:08:04]   |---------------------------------------------------
+[17:08:04]   Loaded 10 filterscripts.
+
+[17:08:04] Reading File: blank
+[17:08:04] Reading File: properties/houses.txt
+[17:08:04] Reading File: properties/businesses.txt
+[17:08:04] Reading File: properties/banks.txt
+[17:08:04] Reading File: properties/police.txt
+[17:08:04] 
+----------------------------------
+[17:08:04]  Blank Gamemode by your name here
+[17:08:04] ----------------------------------
+
+[17:08:04] Number of vehicle models: 1
+[17:08:13] [connection] 25.3.75.224:56503 requests connection cookie.
+[17:08:14] [connection] incoming connection: 25.3.75.224:56503 id: 0
+[17:08:14] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[17:08:22] [connection] 10.0.0.34:50771 requests connection cookie.
+[17:08:23] [connection] incoming connection: 10.0.0.34:50771 id: 1
+[17:08:24] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[17:10:15] [part] Alessio_Mancini has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:11:27] 
+[17:11:27] Server Plugins
+[17:11:27] --------------
+[17:11:27]  Loaded 0 plugins.
+
+[17:11:27] 
+[17:11:27] Filterscripts
+[17:11:27] ---------------
+[17:11:27]   Loading filterscript 'gl_actions.amx'...
+[17:11:27]   Loading filterscript 'gl_realtime.amx'...
+[17:11:27]   Loading filterscript 'gl_property.amx'...
+[17:11:27] 
+-----------------------------------
+[17:11:27] Grand Larceny Property Filterscript		
+[17:11:27] -----------------------------------
+
+[17:11:27]   Loading filterscript 'gl_mapicon.amx'...
+[17:11:27]   Loading filterscript 'ls_elevator.amx'...
+[17:11:27]   Loading filterscript 'attachments.amx'...
+[17:11:27]   Loading filterscript 'skinchanger.amx'...
+[17:11:27] 
+--Admin Player Skin Changer Loaded
+
+[17:11:27]   Loading filterscript 'vspawner.amx'...
+[17:11:27] 
+--Admin Vehicle Spawner Loaded
+
+[17:11:27]   Loading filterscript 'ls_mall.amx'...
+[17:11:27]   Loading filterscript 'ls_beachside.amx'...
+[17:11:27] 
+
+[17:11:27]   |---------------------------------------------------
+[17:11:27]   |--- LS BeachSide Filterscript
+[17:11:27]   |--  Script v1.03
+[17:11:27]   |--  19th April 2015
+[17:11:27]   |---------------------------------------------------
+[17:11:27]   |--  LS BeachSide Building Elevator created
+[17:11:27]   |---------------------------------------------------
+[17:11:27]   Loaded 10 filterscripts.
+
+[17:11:27] Reading File: blank
+[17:11:27] Reading File: properties/houses.txt
+[17:11:27] Reading File: properties/businesses.txt
+[17:11:27] Reading File: properties/banks.txt
+[17:11:27] Reading File: properties/police.txt
+[17:11:27] 
+----------------------------------
+[17:11:27]  Blank Gamemode by your name here
+[17:11:27] ----------------------------------
+
+[17:11:27] Number of vehicle models: 1
+[17:11:46] [connection] 10.0.0.34:60503 requests connection cookie.
+[17:11:47] [connection] incoming connection: 10.0.0.34:60503 id: 0
+[17:11:47] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[17:11:48] [connection] 25.3.75.224:55499 requests connection cookie.
+[17:11:49] [connection] incoming connection: 25.3.75.224:55499 id: 1
+[17:11:50] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+[17:13:18] [part] Vladimir_Petrov2 has left the server (1:1)
+[17:13:21] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:15:25] 
+[17:15:25] Server Plugins
+[17:15:25] --------------
+[17:15:25]  Loaded 0 plugins.
+
+[17:15:25] 
+[17:15:25] Filterscripts
+[17:15:25] ---------------
+[17:15:25]   Loading filterscript 'gl_actions.amx'...
+[17:15:25]   Loading filterscript 'gl_realtime.amx'...
+[17:15:25]   Loading filterscript 'gl_property.amx'...
+[17:15:25] 
+-----------------------------------
+[17:15:25] Grand Larceny Property Filterscript		
+[17:15:25] -----------------------------------
+
+[17:15:25]   Loading filterscript 'gl_mapicon.amx'...
+[17:15:25]   Loading filterscript 'ls_elevator.amx'...
+[17:15:25]   Loading filterscript 'attachments.amx'...
+[17:15:25]   Loading filterscript 'skinchanger.amx'...
+[17:15:25] 
+--Admin Player Skin Changer Loaded
+
+[17:15:25]   Loading filterscript 'vspawner.amx'...
+[17:15:25] 
+--Admin Vehicle Spawner Loaded
+
+[17:15:25]   Loading filterscript 'ls_mall.amx'...
+[17:15:25]   Loading filterscript 'ls_beachside.amx'...
+[17:15:25] 
+
+[17:15:25]   |---------------------------------------------------
+[17:15:25]   |--- LS BeachSide Filterscript
+[17:15:25]   |--  Script v1.03
+[17:15:25]   |--  19th April 2015
+[17:15:25]   |---------------------------------------------------
+[17:15:25]   |--  LS BeachSide Building Elevator created
+[17:15:25]   |---------------------------------------------------
+[17:15:25]   Loaded 10 filterscripts.
+
+[17:15:25] Reading File: blank
+[17:15:25] Reading File: properties/houses.txt
+[17:15:25] Reading File: properties/businesses.txt
+[17:15:25] Reading File: properties/banks.txt
+[17:15:25] Reading File: properties/police.txt
+[17:15:25] 
+----------------------------------
+[17:15:25]  Blank Gamemode by your name here
+[17:15:25] ----------------------------------
+
+[17:15:25] Number of vehicle models: 1
+[17:15:41] [connection] 25.3.75.224:61182 requests connection cookie.
+[17:15:42] [connection] incoming connection: 25.3.75.224:61182 id: 0
+[17:15:43] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[17:15:46] [connection] 10.0.0.34:65469 requests connection cookie.
+[17:15:47] [connection] incoming connection: 10.0.0.34:65469 id: 1
+[17:15:47] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[17:16:34] [part] Alessio_Mancini has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:07] 
+[15:04:07] Server Plugins
+[15:04:07] --------------
+[15:04:07]  Loaded 0 plugins.
+
+[15:04:07] 
+[15:04:07] Filterscripts
+[15:04:07] ---------------
+[15:04:07]   Loading filterscript 'gl_actions.amx'...
+[15:04:07]   Loading filterscript 'gl_realtime.amx'...
+[15:04:07]   Loading filterscript 'gl_property.amx'...
+[15:04:07] 
+-----------------------------------
+[15:04:07] Grand Larceny Property Filterscript		
+[15:04:07] -----------------------------------
+
+[15:04:07]   Loading filterscript 'gl_mapicon.amx'...
+[15:04:07]   Loading filterscript 'ls_elevator.amx'...
+[15:04:07]   Loading filterscript 'attachments.amx'...
+[15:04:07]   Loading filterscript 'skinchanger.amx'...
+[15:04:07] 
+--Admin Player Skin Changer Loaded
+
+[15:04:07]   Loading filterscript 'vspawner.amx'...
+[15:04:07] 
+--Admin Vehicle Spawner Loaded
+
+[15:04:07]   Loading filterscript 'ls_mall.amx'...
+[15:04:07]   Loading filterscript 'ls_beachside.amx'...
+[15:04:07] 
+
+[15:04:07]   |---------------------------------------------------
+[15:04:07]   |--- LS BeachSide Filterscript
+[15:04:07]   |--  Script v1.03
+[15:04:07]   |--  19th April 2015
+[15:04:07]   |---------------------------------------------------
+[15:04:07]   |--  LS BeachSide Building Elevator created
+[15:04:07]   |---------------------------------------------------
+[15:04:07]   Loaded 10 filterscripts.
+
+[15:04:07] Reading File: blank
+[15:04:07] Reading File: properties/houses.txt
+[15:04:07] Reading File: properties/businesses.txt
+[15:04:07] Reading File: properties/banks.txt
+[15:04:07] Reading File: properties/police.txt
+[15:04:07] 
+----------------------------------
+[15:04:07]  Blank Gamemode by your name here
+[15:04:07] ----------------------------------
+
+[15:04:07] Number of vehicle models: 1
+[15:06:10] [connection] 25.3.75.224:62583 requests connection cookie.
+[15:06:11] [connection] incoming connection: 25.3.75.224:62583 id: 0
+[15:06:11] [connection] 10.0.0.34:55531 requests connection cookie.
+[15:06:11] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[15:06:12] [connection] incoming connection: 10.0.0.34:55531 id: 1
+[15:06:12] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[15:08:07] [part] Alessio_Mancini has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:19:56] 
+[15:19:56] Server Plugins
+[15:19:56] --------------
+[15:19:56]  Loaded 0 plugins.
+
+[15:19:56] 
+[15:19:56] Filterscripts
+[15:19:56] ---------------
+[15:19:56]   Loading filterscript 'gl_actions.amx'...
+[15:19:56]   Loading filterscript 'gl_realtime.amx'...
+[15:19:56]   Loading filterscript 'gl_property.amx'...
+[15:19:56] 
+-----------------------------------
+[15:19:56] Grand Larceny Property Filterscript		
+[15:19:56] -----------------------------------
+
+[15:19:56]   Loading filterscript 'gl_mapicon.amx'...
+[15:19:56]   Loading filterscript 'ls_elevator.amx'...
+[15:19:56]   Loading filterscript 'attachments.amx'...
+[15:19:56]   Loading filterscript 'skinchanger.amx'...
+[15:19:56] 
+--Admin Player Skin Changer Loaded
+
+[15:19:56]   Loading filterscript 'vspawner.amx'...
+[15:19:56] 
+--Admin Vehicle Spawner Loaded
+
+[15:19:56]   Loading filterscript 'ls_mall.amx'...
+[15:19:56]   Loading filterscript 'ls_beachside.amx'...
+[15:19:56] 
+
+[15:19:56]   |---------------------------------------------------
+[15:19:56]   |--- LS BeachSide Filterscript
+[15:19:56]   |--  Script v1.03
+[15:19:56]   |--  19th April 2015
+[15:19:56]   |---------------------------------------------------
+[15:19:56]   |--  LS BeachSide Building Elevator created
+[15:19:56]   |---------------------------------------------------
+[15:19:56]   Loaded 10 filterscripts.
+
+[15:19:56] Reading File: blank
+[15:19:56] Reading File: properties/houses.txt
+[15:19:56] Reading File: properties/businesses.txt
+[15:19:56] Reading File: properties/banks.txt
+[15:19:56] Reading File: properties/police.txt
+[15:19:56] 
+----------------------------------
+[15:19:56]  Blank Gamemode by your name here
+[15:19:56] ----------------------------------
+
+[15:19:56] Number of vehicle models: 1
+[15:20:15] [connection] 10.0.0.34:59088 requests connection cookie.
+[15:20:16] [connection] incoming connection: 10.0.0.34:59088 id: 0
+[15:20:16] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:20:38] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:58] 
+[15:25:58] Server Plugins
+[15:25:58] --------------
+[15:25:58]  Loaded 0 plugins.
+
+[15:25:58] 
+[15:25:58] Filterscripts
+[15:25:58] ---------------
+[15:25:58]   Loading filterscript 'gl_actions.amx'...
+[15:25:58]   Loading filterscript 'gl_realtime.amx'...
+[15:25:58]   Loading filterscript 'gl_property.amx'...
+[15:25:58] 
+-----------------------------------
+[15:25:58] Grand Larceny Property Filterscript		
+[15:25:58] -----------------------------------
+
+[15:25:58]   Loading filterscript 'gl_mapicon.amx'...
+[15:25:58]   Loading filterscript 'ls_elevator.amx'...
+[15:25:58]   Loading filterscript 'attachments.amx'...
+[15:25:58]   Loading filterscript 'skinchanger.amx'...
+[15:25:58] 
+--Admin Player Skin Changer Loaded
+
+[15:25:58]   Loading filterscript 'vspawner.amx'...
+[15:25:58] 
+--Admin Vehicle Spawner Loaded
+
+[15:25:58]   Loading filterscript 'ls_mall.amx'...
+[15:25:58]   Loading filterscript 'ls_beachside.amx'...
+[15:25:58] 
+
+[15:25:58]   |---------------------------------------------------
+[15:25:58]   |--- LS BeachSide Filterscript
+[15:25:58]   |--  Script v1.03
+[15:25:58]   |--  19th April 2015
+[15:25:58]   |---------------------------------------------------
+[15:25:58]   |--  LS BeachSide Building Elevator created
+[15:25:58]   |---------------------------------------------------
+[15:25:58]   Loaded 10 filterscripts.
+
+[15:25:58] Reading File: blank
+[15:25:58] Reading File: properties/houses.txt
+[15:25:58] Reading File: properties/businesses.txt
+[15:25:58] Reading File: properties/banks.txt
+[15:25:58] Reading File: properties/police.txt
+[15:25:58] 
+----------------------------------
+[15:25:58]  Blank Gamemode by your name here
+[15:25:58] ----------------------------------
+
+[15:25:58] Number of vehicle models: 1
+[15:26:16] [connection] 10.0.0.34:57555 requests connection cookie.
+[15:26:17] [connection] incoming connection: 10.0.0.34:57555 id: 0
+[15:26:17] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:26:56] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:39:23] 
+[15:39:23] Server Plugins
+[15:39:23] --------------
+[15:39:23]  Loaded 0 plugins.
+
+[15:39:23] 
+[15:39:23] Filterscripts
+[15:39:23] ---------------
+[15:39:23]   Loading filterscript 'money_death.amx'...
+[15:39:23]   Unable to load filterscript 'money_death.amx'.
+[15:39:23]   Loading filterscript 'gl_actions.amx'...
+[15:39:23]   Loading filterscript 'gl_realtime.amx'...
+[15:39:23]   Loading filterscript 'gl_property.amx'...
+[15:39:23] 
+-----------------------------------
+[15:39:23] Grand Larceny Property Filterscript		
+[15:39:23] -----------------------------------
+
+[15:39:23]   Loading filterscript 'gl_mapicon.amx'...
+[15:39:23]   Loading filterscript 'ls_elevator.amx'...
+[15:39:23]   Loading filterscript 'attachments.amx'...
+[15:39:23]   Loading filterscript 'skinchanger.amx'...
+[15:39:23] 
+--Admin Player Skin Changer Loaded
+
+[15:39:23]   Loading filterscript 'vspawner.amx'...
+[15:39:23] 
+--Admin Vehicle Spawner Loaded
+
+[15:39:23]   Loading filterscript 'ls_mall.amx'...
+[15:39:23]   Loading filterscript 'ls_beachside.amx'...
+[15:39:23] 
+
+[15:39:23]   |---------------------------------------------------
+[15:39:23]   |--- LS BeachSide Filterscript
+[15:39:23]   |--  Script v1.03
+[15:39:23]   |--  19th April 2015
+[15:39:23]   |---------------------------------------------------
+[15:39:23]   |--  LS BeachSide Building Elevator created
+[15:39:23]   |---------------------------------------------------
+[15:39:23]   Loaded 10 filterscripts.
+
+[15:39:23] Reading File: blank
+[15:39:23] Reading File: properties/houses.txt
+[15:39:23] Reading File: properties/businesses.txt
+[15:39:23] Reading File: properties/banks.txt
+[15:39:23] Reading File: properties/police.txt
+[15:39:23] 
+----------------------------------
+[15:39:23]  Blank Gamemode by your name here
+[15:39:23] ----------------------------------
+
+[15:39:23] Number of vehicle models: 1
+[15:39:44] [connection] 10.0.0.34:64416 requests connection cookie.
+[15:39:45] [connection] incoming connection: 10.0.0.34:64416 id: 0
+[15:39:46] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:40:38] [connection] 25.3.75.224:54100 requests connection cookie.
+[15:40:39] [connection] incoming connection: 25.3.75.224:54100 id: 1
+[15:40:40] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+[15:41:18] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:41:46] 
+[15:41:46] Server Plugins
+[15:41:46] --------------
+[15:41:46]  Loaded 0 plugins.
+
+[15:41:47] 
+[15:41:47] Filterscripts
+[15:41:47] ---------------
+[15:41:47]   Loading filterscript 'money_death.amx'...
+[15:41:47]   Unable to load filterscript 'money_death.amx'.
+[15:41:47]   Loading filterscript 'gl_actions.amx'...
+[15:41:47]   Loading filterscript 'gl_realtime.amx'...
+[15:41:47]   Loading filterscript 'gl_property.amx'...
+[15:41:47] 
+-----------------------------------
+[15:41:47] Grand Larceny Property Filterscript		
+[15:41:47] -----------------------------------
+
+[15:41:47]   Loading filterscript 'gl_mapicon.amx'...
+[15:41:47]   Loading filterscript 'ls_elevator.amx'...
+[15:41:47]   Loading filterscript 'attachments.amx'...
+[15:41:47]   Loading filterscript 'skinchanger.amx'...
+[15:41:47] 
+--Admin Player Skin Changer Loaded
+
+[15:41:47]   Loading filterscript 'vspawner.amx'...
+[15:41:47] 
+--Admin Vehicle Spawner Loaded
+
+[15:41:47]   Loading filterscript 'ls_mall.amx'...
+[15:41:47]   Loading filterscript 'ls_beachside.amx'...
+[15:41:47] 
+
+[15:41:47]   |---------------------------------------------------
+[15:41:47]   |--- LS BeachSide Filterscript
+[15:41:47]   |--  Script v1.03
+[15:41:47]   |--  19th April 2015
+[15:41:47]   |---------------------------------------------------
+[15:41:47]   |--  LS BeachSide Building Elevator created
+[15:41:47]   |---------------------------------------------------
+[15:41:47]   Loaded 10 filterscripts.
+
+[15:41:47] Reading File: blank
+[15:41:47] Reading File: properties/houses.txt
+[15:41:47] Reading File: properties/businesses.txt
+[15:41:47] Reading File: properties/banks.txt
+[15:41:47] Reading File: properties/police.txt
+[15:41:47] 
+----------------------------------
+[15:41:47]  Blank Gamemode by your name here
+[15:41:47] ----------------------------------
+
+[15:41:47] Number of vehicle models: 1
+[15:41:57] [connection] 25.3.75.224:55250 requests connection cookie.
+[15:41:58] [connection] incoming connection: 25.3.75.224:55250 id: 0
+[15:41:59] [join] Vladimir_Petrov2 has joined the server (0:25.3.75.224)
+[15:42:04] [connection] 10.0.0.34:64417 requests connection cookie.
+[15:42:05] [connection] incoming connection: 10.0.0.34:64417 id: 1
+[15:42:06] [join] Alessio_Mancini has joined the server (1:10.0.0.34)
+[15:42:49] [part] Alessio_Mancini has left the server (1:1)
+[15:42:51] [part] Vladimir_Petrov2 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:47:49] 
+[15:47:49] Server Plugins
+[15:47:49] --------------
+[15:47:49]  Loaded 0 plugins.
+
+[15:47:49] 
+[15:47:49] Filterscripts
+[15:47:49] ---------------
+[15:47:49]   Loading filterscript 'money_death.amx'...
+[15:47:49]   Loading filterscript 'gl_actions.amx'...
+[15:47:49]   Loading filterscript 'gl_realtime.amx'...
+[15:47:49]   Loading filterscript 'gl_property.amx'...
+[15:47:49] 
+-----------------------------------
+[15:47:49] Grand Larceny Property Filterscript		
+[15:47:49] -----------------------------------
+
+[15:47:49]   Loading filterscript 'gl_mapicon.amx'...
+[15:47:49]   Loading filterscript 'ls_elevator.amx'...
+[15:47:49]   Loading filterscript 'attachments.amx'...
+[15:47:49]   Loading filterscript 'skinchanger.amx'...
+[15:47:49] 
+--Admin Player Skin Changer Loaded
+
+[15:47:49]   Loading filterscript 'vspawner.amx'...
+[15:47:49] 
+--Admin Vehicle Spawner Loaded
+
+[15:47:49]   Loading filterscript 'ls_mall.amx'...
+[15:47:49]   Loading filterscript 'ls_beachside.amx'...
+[15:47:49] 
+
+[15:47:49]   |---------------------------------------------------
+[15:47:49]   |--- LS BeachSide Filterscript
+[15:47:49]   |--  Script v1.03
+[15:47:49]   |--  19th April 2015
+[15:47:49]   |---------------------------------------------------
+[15:47:49]   |--  LS BeachSide Building Elevator created
+[15:47:49]   |---------------------------------------------------
+[15:47:49]   Loaded 11 filterscripts.
+
+[15:47:49] Reading File: blank
+[15:47:49] Reading File: properties/houses.txt
+[15:47:49] Reading File: properties/businesses.txt
+[15:47:49] Reading File: properties/banks.txt
+[15:47:49] Reading File: properties/police.txt
+[15:47:49] 
+----------------------------------
+[15:47:49]  Blank Gamemode by your name here
+[15:47:49] ----------------------------------
+
+[15:47:49] Number of vehicle models: 1
+[15:48:07] [connection] 10.0.0.34:56478 requests connection cookie.
+[15:48:08] [connection] incoming connection: 10.0.0.34:56478 id: 0
+[15:48:08] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:48:17] [connection] 25.3.75.224:61463 requests connection cookie.
+[15:48:18] [connection] incoming connection: 25.3.75.224:61463 id: 1
+[15:48:19] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+[15:48:49] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:54:59] 
+[15:54:59] Server Plugins
+[15:54:59] --------------
+[15:54:59]  Loaded 0 plugins.
+
+[15:54:59] 
+[15:54:59] Filterscripts
+[15:54:59] ---------------
+[15:54:59]   Loading filterscript 'money_death.amx'...
+[15:54:59] 
+--------------------------------------
+[15:54:59]  Blank Filterscript by your name here
+[15:54:59] --------------------------------------
+
+[15:54:59]   Loading filterscript 'gl_actions.amx'...
+[15:54:59]   Loading filterscript 'gl_realtime.amx'...
+[15:54:59]   Loading filterscript 'gl_property.amx'...
+[15:54:59] 
+-----------------------------------
+[15:54:59] Grand Larceny Property Filterscript		
+[15:54:59] -----------------------------------
+
+[15:54:59]   Loading filterscript 'gl_mapicon.amx'...
+[15:54:59]   Loading filterscript 'ls_elevator.amx'...
+[15:54:59]   Loading filterscript 'attachments.amx'...
+[15:54:59]   Loading filterscript 'skinchanger.amx'...
+[15:54:59] 
+--Admin Player Skin Changer Loaded
+
+[15:54:59]   Loading filterscript 'vspawner.amx'...
+[15:54:59] 
+--Admin Vehicle Spawner Loaded
+
+[15:54:59]   Loading filterscript 'ls_mall.amx'...
+[15:54:59]   Loading filterscript 'ls_beachside.amx'...
+[15:54:59] 
+
+[15:54:59]   |---------------------------------------------------
+[15:54:59]   |--- LS BeachSide Filterscript
+[15:54:59]   |--  Script v1.03
+[15:54:59]   |--  19th April 2015
+[15:54:59]   |---------------------------------------------------
+[15:54:59]   |--  LS BeachSide Building Elevator created
+[15:54:59]   |---------------------------------------------------
+[15:54:59]   Loaded 11 filterscripts.
+
+[15:54:59] Reading File: blank
+[15:54:59] Reading File: properties/houses.txt
+[15:54:59] Reading File: properties/businesses.txt
+[15:54:59] Reading File: properties/banks.txt
+[15:54:59] Reading File: properties/police.txt
+[15:54:59] 
+----------------------------------
+[15:54:59]  Blank Gamemode by your name here
+[15:54:59] ----------------------------------
+
+[15:54:59] Number of vehicle models: 1
+[15:55:18] [connection] 10.0.0.34:51528 requests connection cookie.
+[15:55:19] [connection] incoming connection: 10.0.0.34:51528 id: 0
+[15:55:19] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[15:56:14] [connection] 25.3.75.224:54333 requests connection cookie.
+[15:56:15] [connection] incoming connection: 25.3.75.224:54333 id: 1
+[15:56:19] [join] Vladimir_Petrov2 has joined the server (1:25.3.75.224)
+[15:56:48] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:02] 
+[16:18:02] Server Plugins
+[16:18:02] --------------
+[16:18:02]  Loaded 0 plugins.
+
+[16:18:02] 
+[16:18:02] Filterscripts
+[16:18:02] ---------------
+[16:18:02]   Loading filterscript 'money_death.amx'...
+[16:18:02] 
+--------------------------------------
+[16:18:02]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:18:02] --------------------------------------
+
+[16:18:02]   Loading filterscript 'gl_actions.amx'...
+[16:18:02]   Loading filterscript 'gl_realtime.amx'...
+[16:18:02]   Loading filterscript 'gl_property.amx'...
+[16:18:02] 
+-----------------------------------
+[16:18:02] Grand Larceny Property Filterscript		
+[16:18:02] -----------------------------------
+
+[16:18:02]   Loading filterscript 'gl_mapicon.amx'...
+[16:18:02]   Loading filterscript 'ls_elevator.amx'...
+[16:18:02]   Loading filterscript 'attachments.amx'...
+[16:18:02]   Loading filterscript 'skinchanger.amx'...
+[16:18:03] 
+--Admin Player Skin Changer Loaded
+
+[16:18:03]   Loading filterscript 'vspawner.amx'...
+[16:18:03] 
+--Admin Vehicle Spawner Loaded
+
+[16:18:03]   Loading filterscript 'ls_mall.amx'...
+[16:18:03]   Loading filterscript 'ls_beachside.amx'...
+[16:18:03] 
+
+[16:18:03]   |---------------------------------------------------
+[16:18:03]   |--- LS BeachSide Filterscript
+[16:18:03]   |--  Script v1.03
+[16:18:03]   |--  19th April 2015
+[16:18:03]   |---------------------------------------------------
+[16:18:03]   |--  LS BeachSide Building Elevator created
+[16:18:03]   |---------------------------------------------------
+[16:18:03]   Loaded 11 filterscripts.
+
+[16:18:03] Reading File: blank
+[16:18:03] Reading File: properties/houses.txt
+[16:18:03] Reading File: properties/businesses.txt
+[16:18:03] Reading File: properties/banks.txt
+[16:18:03] Reading File: properties/police.txt
+[16:18:03] 
+----------------------------------
+[16:18:03]  Blank Gamemode by your name here
+[16:18:03] ----------------------------------
+
+[16:18:03] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:09] 
+[16:18:09] Server Plugins
+[16:18:09] --------------
+[16:18:09]  Loaded 0 plugins.
+
+[16:18:09] 
+[16:18:09] Filterscripts
+[16:18:09] ---------------
+[16:18:09]   Loading filterscript 'money_death.amx'...
+[16:18:09] 
+--------------------------------------
+[16:18:09]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:18:09] --------------------------------------
+
+[16:18:09]   Loading filterscript 'gl_actions.amx'...
+[16:18:09]   Loading filterscript 'gl_realtime.amx'...
+[16:18:09]   Loading filterscript 'gl_property.amx'...
+[16:18:09] 
+-----------------------------------
+[16:18:09] Grand Larceny Property Filterscript		
+[16:18:09] -----------------------------------
+
+[16:18:09]   Loading filterscript 'gl_mapicon.amx'...
+[16:18:09]   Loading filterscript 'ls_elevator.amx'...
+[16:18:09]   Loading filterscript 'attachments.amx'...
+[16:18:09]   Loading filterscript 'skinchanger.amx'...
+[16:18:09] 
+--Admin Player Skin Changer Loaded
+
+[16:18:09]   Loading filterscript 'vspawner.amx'...
+[16:18:09] 
+--Admin Vehicle Spawner Loaded
+
+[16:18:09]   Loading filterscript 'ls_mall.amx'...
+[16:18:09]   Loading filterscript 'ls_beachside.amx'...
+[16:18:09] 
+
+[16:18:09]   |---------------------------------------------------
+[16:18:09]   |--- LS BeachSide Filterscript
+[16:18:09]   |--  Script v1.03
+[16:18:09]   |--  19th April 2015
+[16:18:09]   |---------------------------------------------------
+[16:18:09]   |--  LS BeachSide Building Elevator created
+[16:18:09]   |---------------------------------------------------
+[16:18:09]   Loaded 11 filterscripts.
+
+[16:18:09] Reading File: blank
+[16:18:09] Reading File: properties/houses.txt
+[16:18:09] Reading File: properties/businesses.txt
+[16:18:09] Reading File: properties/banks.txt
+[16:18:09] Reading File: properties/police.txt
+[16:18:09] 
+----------------------------------
+[16:18:09]  Blank Gamemode by your name here
+[16:18:09] ----------------------------------
+
+[16:18:09] Number of vehicle models: 1
+[16:18:40] [connection] 10.0.0.34:54419 requests connection cookie.
+[16:18:41] [connection] incoming connection: 10.0.0.34:54419 id: 0
+[16:18:41] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:19:59] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:21:03] 
+[16:21:03] Server Plugins
+[16:21:03] --------------
+[16:21:03]  Loaded 0 plugins.
+
+[16:21:03] 
+[16:21:03] Filterscripts
+[16:21:03] ---------------
+[16:21:03]   Loading filterscript 'money_death.amx'...
+[16:21:03] 
+--------------------------------------
+[16:21:03]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:21:03] --------------------------------------
+
+[16:21:03]   Loading filterscript 'gl_actions.amx'...
+[16:21:03]   Loading filterscript 'gl_realtime.amx'...
+[16:21:03]   Loading filterscript 'gl_property.amx'...
+[16:21:03] 
+-----------------------------------
+[16:21:03] Grand Larceny Property Filterscript		
+[16:21:03] -----------------------------------
+
+[16:21:03]   Loading filterscript 'gl_mapicon.amx'...
+[16:21:03]   Loading filterscript 'ls_elevator.amx'...
+[16:21:03]   Loading filterscript 'attachments.amx'...
+[16:21:03]   Loading filterscript 'skinchanger.amx'...
+[16:21:03] 
+--Admin Player Skin Changer Loaded
+
+[16:21:03]   Loading filterscript 'vspawner.amx'...
+[16:21:03] 
+--Admin Vehicle Spawner Loaded
+
+[16:21:03]   Loading filterscript 'ls_mall.amx'...
+[16:21:03]   Loading filterscript 'ls_beachside.amx'...
+[16:21:03] 
+
+[16:21:03]   |---------------------------------------------------
+[16:21:03]   |--- LS BeachSide Filterscript
+[16:21:03]   |--  Script v1.03
+[16:21:03]   |--  19th April 2015
+[16:21:03]   |---------------------------------------------------
+[16:21:03]   |--  LS BeachSide Building Elevator created
+[16:21:03]   |---------------------------------------------------
+[16:21:03]   Loaded 11 filterscripts.
+
+[16:21:03] Reading File: blank
+[16:21:03] Reading File: properties/houses.txt
+[16:21:03] Reading File: properties/businesses.txt
+[16:21:03] Reading File: properties/banks.txt
+[16:21:03] Reading File: properties/police.txt
+[16:21:03] 
+----------------------------------
+[16:21:03]  Blank Gamemode by your name here
+[16:21:03] ----------------------------------
+
+[16:21:03] Number of vehicle models: 1
+[16:21:21] [connection] 10.0.0.34:49200 requests connection cookie.
+[16:21:22] [connection] incoming connection: 10.0.0.34:49200 id: 0
+[16:21:23] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:23:03] [part] Alessio_Mancini has left the server (0:1)
+[16:24:23] [connection] 10.0.0.34:54261 requests connection cookie.
+[16:24:24] [connection] incoming connection: 10.0.0.34:54261 id: 0
+[16:24:24] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:26:37] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:26:47] 
+[16:26:47] Server Plugins
+[16:26:47] --------------
+[16:26:47]  Loaded 0 plugins.
+
+[16:26:47] 
+[16:26:47] Filterscripts
+[16:26:47] ---------------
+[16:26:47]   Loading filterscript 'money_death.amx'...
+[16:26:47] 
+--------------------------------------
+[16:26:47]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:26:47] --------------------------------------
+
+[16:26:47]   Loading filterscript 'gl_actions.amx'...
+[16:26:47]   Loading filterscript 'gl_realtime.amx'...
+[16:26:47]   Loading filterscript 'gl_property.amx'...
+[16:26:47] 
+-----------------------------------
+[16:26:47] Grand Larceny Property Filterscript		
+[16:26:47] -----------------------------------
+
+[16:26:47]   Loading filterscript 'gl_mapicon.amx'...
+[16:26:47]   Loading filterscript 'ls_elevator.amx'...
+[16:26:48]   Loading filterscript 'attachments.amx'...
+[16:26:48]   Loading filterscript 'skinchanger.amx'...
+[16:26:48] 
+--Admin Player Skin Changer Loaded
+
+[16:26:48]   Loading filterscript 'vspawner.amx'...
+[16:26:48] 
+--Admin Vehicle Spawner Loaded
+
+[16:26:48]   Loading filterscript 'ls_mall.amx'...
+[16:26:48]   Loading filterscript 'ls_beachside.amx'...
+[16:26:48] 
+
+[16:26:48]   |---------------------------------------------------
+[16:26:48]   |--- LS BeachSide Filterscript
+[16:26:48]   |--  Script v1.03
+[16:26:48]   |--  19th April 2015
+[16:26:48]   |---------------------------------------------------
+[16:26:48]   |--  LS BeachSide Building Elevator created
+[16:26:48]   |---------------------------------------------------
+[16:26:48]   Loaded 11 filterscripts.
+
+[16:26:48] Reading File: blank
+[16:26:48] Reading File: properties/houses.txt
+[16:26:48] Reading File: properties/businesses.txt
+[16:26:48] Reading File: properties/banks.txt
+[16:26:48] Reading File: properties/police.txt
+[16:26:48] 
+----------------------------------
+[16:26:48]  Blank Gamemode by your name here
+[16:26:48] ----------------------------------
+
+[16:26:48] Number of vehicle models: 1
+[16:27:06] [connection] 10.0.0.34:59962 requests connection cookie.
+[16:27:07] [connection] incoming connection: 10.0.0.34:59962 id: 0
+[16:27:07] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:27:35] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:36:25] 
+[16:36:25] Server Plugins
+[16:36:25] --------------
+[16:36:25]  Loaded 0 plugins.
+
+[16:36:25] 
+[16:36:25] Filterscripts
+[16:36:25] ---------------
+[16:36:25]   Loading filterscript 'money_death.amx'...
+[16:36:25] 
+--------------------------------------
+[16:36:25]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:36:25] --------------------------------------
+
+[16:36:25]   Loading filterscript 'gl_actions.amx'...
+[16:36:25]   Loading filterscript 'gl_realtime.amx'...
+[16:36:25]   Loading filterscript 'gl_property.amx'...
+[16:36:25] 
+-----------------------------------
+[16:36:25] Grand Larceny Property Filterscript		
+[16:36:25] -----------------------------------
+
+[16:36:25]   Loading filterscript 'gl_mapicon.amx'...
+[16:36:25]   Loading filterscript 'ls_elevator.amx'...
+[16:36:25]   Loading filterscript 'attachments.amx'...
+[16:36:25]   Loading filterscript 'skinchanger.amx'...
+[16:36:25] 
+--Admin Player Skin Changer Loaded
+
+[16:36:25]   Loading filterscript 'vspawner.amx'...
+[16:36:25] 
+--Admin Vehicle Spawner Loaded
+
+[16:36:25]   Loading filterscript 'ls_mall.amx'...
+[16:36:25]   Loading filterscript 'ls_beachside.amx'...
+[16:36:25] 
+
+[16:36:25]   |---------------------------------------------------
+[16:36:25]   |--- LS BeachSide Filterscript
+[16:36:25]   |--  Script v1.03
+[16:36:25]   |--  19th April 2015
+[16:36:25]   |---------------------------------------------------
+[16:36:25]   |--  LS BeachSide Building Elevator created
+[16:36:25]   |---------------------------------------------------
+[16:36:25]   Loaded 11 filterscripts.
+
+[16:36:25] Reading File: blank
+[16:36:25] Reading File: properties/houses.txt
+[16:36:25] Reading File: properties/businesses.txt
+[16:36:25] Reading File: properties/banks.txt
+[16:36:25] Reading File: properties/police.txt
+[16:36:25] 
+----------------------------------
+[16:36:25]  Blank Gamemode by your name here
+[16:36:25] ----------------------------------
+
+[16:36:25] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:37:13] 
+[16:37:13] Server Plugins
+[16:37:13] --------------
+[16:37:13]  Loaded 0 plugins.
+
+[16:37:13] 
+[16:37:13] Filterscripts
+[16:37:13] ---------------
+[16:37:13]   Loading filterscript 'money_death.amx'...
+[16:37:13] 
+--------------------------------------
+[16:37:13]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:37:13] --------------------------------------
+
+[16:37:13]   Loading filterscript 'gl_actions.amx'...
+[16:37:13]   Loading filterscript 'gl_realtime.amx'...
+[16:37:13]   Loading filterscript 'gl_mapicon.amx'...
+[16:37:13]   Loading filterscript 'ls_elevator.amx'...
+[16:37:13]   Loading filterscript 'attachments.amx'...
+[16:37:13]   Loading filterscript 'vspawner.amx'...
+[16:37:13] 
+--Admin Vehicle Spawner Loaded
+
+[16:37:13]   Loading filterscript 'ls_mall.amx'...
+[16:37:13]   Loading filterscript 'ls_beachside.amx'...
+[16:37:13] 
+
+[16:37:13]   |---------------------------------------------------
+[16:37:13]   |--- LS BeachSide Filterscript
+[16:37:13]   |--  Script v1.03
+[16:37:13]   |--  19th April 2015
+[16:37:13]   |---------------------------------------------------
+[16:37:13]   |--  LS BeachSide Building Elevator created
+[16:37:13]   |---------------------------------------------------
+[16:37:13]   Loaded 9 filterscripts.
+
+[16:37:13] 
+----------------------------------
+[16:37:13]  Blank Gamemode by your name here
+[16:37:13] ----------------------------------
+
+[16:37:13] Number of vehicle models: 1
+[16:37:53] [connection] 10.0.0.34:61956 requests connection cookie.
+[16:37:54] [connection] incoming connection: 10.0.0.34:61956 id: 0
+[16:37:54] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:38:25] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:55:42] 
+[16:55:42] Server Plugins
+[16:55:42] --------------
+[16:55:42]  Loaded 0 plugins.
+
+[16:55:42] 
+[16:55:42] Filterscripts
+[16:55:42] ---------------
+[16:55:42]   Loading filterscript 'money_death.amx'...
+[16:55:42] 
+--------------------------------------
+[16:55:42]  Money Death FILTERSCRIPT, cuando matas te dan cualto xdxd 
+[16:55:42] --------------------------------------
+
+[16:55:42]   Loading filterscript 'commands.amx'...
+[16:55:42] 
+--------------------------------------
+[16:55:42]  Blank Filterscript by your name here
+[16:55:42] --------------------------------------
+
+[16:55:42]   Loading filterscript 'gl_actions.amx'...
+[16:55:42]   Loading filterscript 'gl_realtime.amx'...
+[16:55:42]   Loading filterscript 'gl_mapicon.amx'...
+[16:55:42]   Loading filterscript 'ls_elevator.amx'...
+[16:55:42]   Loading filterscript 'attachments.amx'...
+[16:55:42]   Loading filterscript 'vspawner.amx'...
+[16:55:42] 
+--Admin Vehicle Spawner Loaded
+
+[16:55:42]   Loading filterscript 'ls_mall.amx'...
+[16:55:42]   Loading filterscript 'ls_beachside.amx'...
+[16:55:42] 
+
+[16:55:42]   |---------------------------------------------------
+[16:55:42]   |--- LS BeachSide Filterscript
+[16:55:42]   |--  Script v1.03
+[16:55:42]   |--  19th April 2015
+[16:55:42]   |---------------------------------------------------
+[16:55:42]   |--  LS BeachSide Building Elevator created
+[16:55:42]   |---------------------------------------------------
+[16:55:42]   Loaded 10 filterscripts.
+
+[16:55:42] 
+----------------------------------
+[16:55:42]  Blank Gamemode by your name here
+[16:55:42] ----------------------------------
+
+[16:55:42] Number of vehicle models: 1
+[16:56:06] [connection] 10.0.0.34:63571 requests connection cookie.
+[16:56:07] [connection] incoming connection: 10.0.0.34:63571 id: 0
+[16:56:08] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:56:26] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:32:48] 
+[17:32:48] Server Plugins
+[17:32:48] --------------
+[17:32:48]  Loaded 0 plugins.
+
+[17:32:48] 
+[17:32:48] Filterscripts
+[17:32:48] ---------------
+[17:32:48]   Loading filterscript 'commands.amx'...
+[17:32:48] 
+--------------------------------------
+[17:32:48]  Blank Filterscript by your name here
+[17:32:48] --------------------------------------
+
+[17:32:48]   Loading filterscript 'gl_actions.amx'...
+[17:32:48]   Loading filterscript 'gl_realtime.amx'...
+[17:32:48]   Loading filterscript 'gl_mapicon.amx'...
+[17:32:48]   Loading filterscript 'ls_elevator.amx'...
+[17:32:48]   Loading filterscript 'attachments.amx'...
+[17:32:48]   Loading filterscript 'vspawner.amx'...
+[17:32:48] 
+--Admin Vehicle Spawner Loaded
+
+[17:32:48]   Loading filterscript 'ls_mall.amx'...
+[17:32:48]   Loading filterscript 'ls_beachside.amx'...
+[17:32:48] 
+
+[17:32:48]   |---------------------------------------------------
+[17:32:48]   |--- LS BeachSide Filterscript
+[17:32:48]   |--  Script v1.03
+[17:32:48]   |--  19th April 2015
+[17:32:48]   |---------------------------------------------------
+[17:32:48]   |--  LS BeachSide Building Elevator created
+[17:32:48]   |---------------------------------------------------
+[17:32:48]   Loaded 9 filterscripts.
+
+[17:32:48] 
+----------------------------------
+[17:32:48]  Blank Gamemode by your name here
+[17:32:48] ----------------------------------
+
+[17:32:48] Number of vehicle models: 1
+[17:33:19] [connection] 10.0.0.34:56260 requests connection cookie.
+[17:33:20] [connection] incoming connection: 10.0.0.34:56260 id: 0
+[17:33:20] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[17:34:17] [part] Alessio_Mancini has left the server (0:1)
