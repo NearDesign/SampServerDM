@@ -5857,3 +5857,426 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [17:33:20] [connection] incoming connection: 10.0.0.34:56260 id: 0
 [17:33:20] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
 [17:34:17] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:30:06] 
+[16:30:06] Server Plugins
+[16:30:06] --------------
+[16:30:06]  Loaded 0 plugins.
+
+[16:30:06] 
+[16:30:06] Filterscripts
+[16:30:06] ---------------
+[16:30:06]   Loading filterscript 'buyguns.amx'...
+[16:30:06] 
+--------------------------------------
+[16:30:06]  Blank Filterscript by your name here
+[16:30:06] --------------------------------------
+
+[16:30:06]   Loading filterscript 'commands.amx'...
+[16:30:06] 
+--------------------------------------
+[16:30:06]  Blank Filterscript by your name here
+[16:30:06] --------------------------------------
+
+[16:30:06]   Loading filterscript 'gl_actions.amx'...
+[16:30:06]   Loading filterscript 'gl_realtime.amx'...
+[16:30:06]   Loading filterscript 'gl_mapicon.amx'...
+[16:30:06]   Loading filterscript 'ls_elevator.amx'...
+[16:30:06]   Loading filterscript 'attachments.amx'...
+[16:30:06]   Loading filterscript 'vspawner.amx'...
+[16:30:06] 
+--Admin Vehicle Spawner Loaded
+
+[16:30:06]   Loading filterscript 'ls_mall.amx'...
+[16:30:06]   Loading filterscript 'ls_beachside.amx'...
+[16:30:06] 
+
+[16:30:06]   |---------------------------------------------------
+[16:30:06]   |--- LS BeachSide Filterscript
+[16:30:06]   |--  Script v1.03
+[16:30:06]   |--  19th April 2015
+[16:30:06]   |---------------------------------------------------
+[16:30:06]   |--  LS BeachSide Building Elevator created
+[16:30:06]   |---------------------------------------------------
+[16:30:06]   Loaded 10 filterscripts.
+
+[16:30:06] 
+----------------------------------
+[16:30:06]  Blank Gamemode by your name here
+[16:30:06] ----------------------------------
+
+[16:30:06] Number of vehicle models: 1
+[16:30:36] [connection] 10.0.0.34:64874 requests connection cookie.
+[16:30:37] [connection] incoming connection: 10.0.0.34:64874 id: 0
+[16:30:37] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:31:31] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:40:59] 
+[16:40:59] Server Plugins
+[16:40:59] --------------
+[16:40:59]  Loaded 0 plugins.
+
+[16:40:59] 
+[16:40:59] Filterscripts
+[16:40:59] ---------------
+[16:40:59]   Loading filterscript 'buyguns.amx'...
+[16:40:59] 
+--------------------------------------
+[16:40:59]  Blank Filterscript by your name here
+[16:40:59] --------------------------------------
+
+[16:40:59]   Loading filterscript 'commands.amx'...
+[16:40:59] 
+--------------------------------------
+[16:40:59]  Blank Filterscript by your name here
+[16:40:59] --------------------------------------
+
+[16:40:59]   Loading filterscript 'gl_actions.amx'...
+[16:40:59]   Loading filterscript 'gl_realtime.amx'...
+[16:40:59]   Loading filterscript 'gl_mapicon.amx'...
+[16:40:59]   Loading filterscript 'ls_elevator.amx'...
+[16:40:59]   Loading filterscript 'attachments.amx'...
+[16:40:59]   Loading filterscript 'vspawner.amx'...
+[16:40:59] 
+--Admin Vehicle Spawner Loaded
+
+[16:40:59]   Loading filterscript 'ls_mall.amx'...
+[16:40:59]   Loading filterscript 'ls_beachside.amx'...
+[16:40:59] 
+
+[16:40:59]   |---------------------------------------------------
+[16:40:59]   |--- LS BeachSide Filterscript
+[16:40:59]   |--  Script v1.03
+[16:40:59]   |--  19th April 2015
+[16:40:59]   |---------------------------------------------------
+[16:40:59]   |--  LS BeachSide Building Elevator created
+[16:40:59]   |---------------------------------------------------
+[16:40:59]   Loaded 10 filterscripts.
+
+[16:40:59] 
+----------------------------------
+[16:40:59]  Blank Gamemode by your name here
+[16:40:59] ----------------------------------
+
+[16:40:59] Number of vehicle models: 1
+[16:41:16] [connection] 10.0.0.34:53052 requests connection cookie.
+[16:41:17] [connection] incoming connection: 10.0.0.34:53052 id: 0
+[16:41:17] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:41:46] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:43:59] 
+[16:43:59] Server Plugins
+[16:43:59] --------------
+[16:43:59]  Loaded 0 plugins.
+
+[16:43:59] 
+[16:43:59] Filterscripts
+[16:43:59] ---------------
+[16:43:59]   Loading filterscript 'buyguns.amx'...
+[16:43:59] 
+--------------------------------------
+[16:43:59]  Blank Filterscript by your name here
+[16:43:59] --------------------------------------
+
+[16:43:59]   Loading filterscript 'commands.amx'...
+[16:43:59] 
+--------------------------------------
+[16:43:59]  Blank Filterscript by your name here
+[16:43:59] --------------------------------------
+
+[16:43:59]   Loading filterscript 'gl_actions.amx'...
+[16:43:59]   Loading filterscript 'gl_realtime.amx'...
+[16:43:59]   Loading filterscript 'gl_mapicon.amx'...
+[16:43:59]   Loading filterscript 'ls_elevator.amx'...
+[16:43:59]   Loading filterscript 'attachments.amx'...
+[16:43:59]   Loading filterscript 'vspawner.amx'...
+[16:43:59] 
+--Admin Vehicle Spawner Loaded
+
+[16:43:59]   Loading filterscript 'ls_mall.amx'...
+[16:43:59]   Loading filterscript 'ls_beachside.amx'...
+[16:43:59] 
+
+[16:43:59]   |---------------------------------------------------
+[16:43:59]   |--- LS BeachSide Filterscript
+[16:43:59]   |--  Script v1.03
+[16:43:59]   |--  19th April 2015
+[16:43:59]   |---------------------------------------------------
+[16:43:59]   |--  LS BeachSide Building Elevator created
+[16:43:59]   |---------------------------------------------------
+[16:43:59]   Loaded 10 filterscripts.
+
+[16:43:59] 
+----------------------------------
+[16:43:59]  Blank Gamemode by your name here
+[16:43:59] ----------------------------------
+
+[16:43:59] Number of vehicle models: 1
+[16:44:16] [connection] 10.0.0.34:60979 requests connection cookie.
+[16:44:17] [connection] incoming connection: 10.0.0.34:60979 id: 0
+[16:44:17] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:45:16] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:46:05] 
+[16:46:05] Server Plugins
+[16:46:05] --------------
+[16:46:05]  Loaded 0 plugins.
+
+[16:46:05] 
+[16:46:05] Filterscripts
+[16:46:05] ---------------
+[16:46:05]   Loading filterscript 'buyguns.amx'...
+[16:46:05] 
+--------------------------------------
+[16:46:05]  Blank Filterscript by your name here
+[16:46:05] --------------------------------------
+
+[16:46:05]   Loading filterscript 'commands.amx'...
+[16:46:05] 
+--------------------------------------
+[16:46:05]  Blank Filterscript by your name here
+[16:46:05] --------------------------------------
+
+[16:46:05]   Loading filterscript 'gl_actions.amx'...
+[16:46:05]   Loading filterscript 'gl_realtime.amx'...
+[16:46:05]   Loading filterscript 'gl_mapicon.amx'...
+[16:46:05]   Loading filterscript 'ls_elevator.amx'...
+[16:46:05]   Loading filterscript 'attachments.amx'...
+[16:46:05]   Loading filterscript 'vspawner.amx'...
+[16:46:05] 
+--Admin Vehicle Spawner Loaded
+
+[16:46:05]   Loading filterscript 'ls_mall.amx'...
+[16:46:05]   Loading filterscript 'ls_beachside.amx'...
+[16:46:05] 
+
+[16:46:05]   |---------------------------------------------------
+[16:46:05]   |--- LS BeachSide Filterscript
+[16:46:05]   |--  Script v1.03
+[16:46:05]   |--  19th April 2015
+[16:46:05]   |---------------------------------------------------
+[16:46:05]   |--  LS BeachSide Building Elevator created
+[16:46:05]   |---------------------------------------------------
+[16:46:05]   Loaded 10 filterscripts.
+
+[16:46:05] 
+----------------------------------
+[16:46:05]  Blank Gamemode by your name here
+[16:46:05] ----------------------------------
+
+[16:46:05] Number of vehicle models: 1
+[16:46:23] [connection] 10.0.0.34:62445 requests connection cookie.
+[16:46:24] [connection] incoming connection: 10.0.0.34:62445 id: 0
+[16:46:24] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:46:56] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:49:16] 
+[16:49:16] Server Plugins
+[16:49:16] --------------
+[16:49:16]  Loaded 0 plugins.
+
+[16:49:16] 
+[16:49:16] Filterscripts
+[16:49:16] ---------------
+[16:49:16]   Loading filterscript 'buyguns.amx'...
+[16:49:16] 
+--------------------------------------
+[16:49:16]  Blank Filterscript by your name here
+[16:49:16] --------------------------------------
+
+[16:49:16]   Loading filterscript 'commands.amx'...
+[16:49:16] 
+--------------------------------------
+[16:49:16]  Blank Filterscript by your name here
+[16:49:16] --------------------------------------
+
+[16:49:16]   Loading filterscript 'gl_actions.amx'...
+[16:49:16]   Loading filterscript 'gl_realtime.amx'...
+[16:49:16]   Loading filterscript 'gl_mapicon.amx'...
+[16:49:16]   Loading filterscript 'ls_elevator.amx'...
+[16:49:16]   Loading filterscript 'attachments.amx'...
+[16:49:16]   Loading filterscript 'vspawner.amx'...
+[16:49:16] 
+--Admin Vehicle Spawner Loaded
+
+[16:49:16]   Loading filterscript 'ls_mall.amx'...
+[16:49:16]   Loading filterscript 'ls_beachside.amx'...
+[16:49:16] 
+
+[16:49:16]   |---------------------------------------------------
+[16:49:16]   |--- LS BeachSide Filterscript
+[16:49:16]   |--  Script v1.03
+[16:49:16]   |--  19th April 2015
+[16:49:16]   |---------------------------------------------------
+[16:49:16]   |--  LS BeachSide Building Elevator created
+[16:49:16]   |---------------------------------------------------
+[16:49:16]   Loaded 10 filterscripts.
+
+[16:49:16] 
+----------------------------------
+[16:49:16]  Blank Gamemode by your name here
+[16:49:16] ----------------------------------
+
+[16:49:16] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:49:34] 
+[16:49:34] Server Plugins
+[16:49:34] --------------
+[16:49:34]  Loaded 0 plugins.
+
+[16:49:34] 
+[16:49:34] Filterscripts
+[16:49:34] ---------------
+[16:49:34]   Loading filterscript 'buyguns.amx'...
+[16:49:34] 
+--------------------------------------
+[16:49:34]  Blank Filterscript by your name here
+[16:49:34] --------------------------------------
+
+[16:49:34]   Loading filterscript 'commands.amx'...
+[16:49:34] 
+--------------------------------------
+[16:49:34]  Blank Filterscript by your name here
+[16:49:34] --------------------------------------
+
+[16:49:34]   Loading filterscript 'gl_actions.amx'...
+[16:49:34]   Loading filterscript 'gl_realtime.amx'...
+[16:49:34]   Loading filterscript 'gl_mapicon.amx'...
+[16:49:34]   Loading filterscript 'ls_elevator.amx'...
+[16:49:34]   Loading filterscript 'attachments.amx'...
+[16:49:34]   Loading filterscript 'vspawner.amx'...
+[16:49:34] 
+--Admin Vehicle Spawner Loaded
+
+[16:49:34]   Loading filterscript 'ls_mall.amx'...
+[16:49:34]   Loading filterscript 'ls_beachside.amx'...
+[16:49:34] 
+
+[16:49:34]   |---------------------------------------------------
+[16:49:34]   |--- LS BeachSide Filterscript
+[16:49:34]   |--  Script v1.03
+[16:49:34]   |--  19th April 2015
+[16:49:34]   |---------------------------------------------------
+[16:49:34]   |--  LS BeachSide Building Elevator created
+[16:49:34]   |---------------------------------------------------
+[16:49:34]   Loaded 10 filterscripts.
+
+[16:49:34] 
+----------------------------------
+[16:49:34]  Blank Gamemode by your name here
+[16:49:34] ----------------------------------
+
+[16:49:34] Number of vehicle models: 1
+[16:49:53] [connection] 10.0.0.34:62702 requests connection cookie.
+[16:49:54] [connection] incoming connection: 10.0.0.34:62702 id: 0
+[16:49:54] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:56:19] [part] Alessio_Mancini has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:57:23] 
+[16:57:23] Server Plugins
+[16:57:23] --------------
+[16:57:23]  Loaded 0 plugins.
+
+[16:57:23] 
+[16:57:23] Filterscripts
+[16:57:23] ---------------
+[16:57:23]   Loading filterscript 'buyguns.amx'...
+[16:57:23] 
+--------------------------------------
+[16:57:23]  Blank Filterscript by your name here
+[16:57:23] --------------------------------------
+
+[16:57:23]   Loading filterscript 'commands.amx'...
+[16:57:23] 
+--------------------------------------
+[16:57:23]  Blank Filterscript by your name here
+[16:57:23] --------------------------------------
+
+[16:57:23]   Loading filterscript 'gl_actions.amx'...
+[16:57:23]   Loading filterscript 'gl_realtime.amx'...
+[16:57:23]   Loading filterscript 'gl_mapicon.amx'...
+[16:57:23]   Loading filterscript 'ls_elevator.amx'...
+[16:57:23]   Loading filterscript 'attachments.amx'...
+[16:57:23]   Loading filterscript 'vspawner.amx'...
+[16:57:23] 
+--Admin Vehicle Spawner Loaded
+
+[16:57:23]   Loading filterscript 'ls_mall.amx'...
+[16:57:23]   Loading filterscript 'ls_beachside.amx'...
+[16:57:23] 
+
+[16:57:23]   |---------------------------------------------------
+[16:57:23]   |--- LS BeachSide Filterscript
+[16:57:23]   |--  Script v1.03
+[16:57:23]   |--  19th April 2015
+[16:57:23]   |---------------------------------------------------
+[16:57:23]   |--  LS BeachSide Building Elevator created
+[16:57:23]   |---------------------------------------------------
+[16:57:23]   Loaded 10 filterscripts.
+
+[16:57:23] 
+----------------------------------
+[16:57:23]  Blank Gamemode by your name here
+[16:57:23] ----------------------------------
+
+[16:57:23] Number of vehicle models: 1
+[16:57:48] [connection] 10.0.0.34:55121 requests connection cookie.
+[16:57:49] [connection] incoming connection: 10.0.0.34:55121 id: 0
+[16:57:50] [join] Alessio_Mancini has joined the server (0:10.0.0.34)
+[16:58:23] [part] Alessio_Mancini has left the server (0:1)
